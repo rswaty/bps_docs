@@ -14,10 +14,9 @@ library(docxtractr)
 ## SET DIRECTORY AND MAKE LIST OF DOCS ------------
 
 # Specify the directory containing the docx files
-docx_directory <- "extract_tables/input_docs/"
-# Took ALL BpS description documents from Apex RMS git hub ref con repository:
+#*** kb Took ALL BpS description documents from Apex RMS git hub ref con repository:
 #https://github.com/ApexRMS/landfireReferenceConditions?tab=readme-ov-file
-
+docx_directory <- "extract_tables/input_docs/"
 
 # List all docx files in the directory
 docx_files <- list.files(path = docx_directory, pattern = "\\.docx$", full.names = TRUE)
@@ -53,4 +52,5 @@ for (docx_file_path in docx_files) {
 # Combine all tables into a single dataframe
 indicator_species <- bind_rows(all_tables)
 
-write.csv(indicator_species, file = 'extract_tables/output_tables/indicator_species.csv', row.names = FALSE)
+#*** kb changed output location
+write.csv(indicator_species, file = 'out/indicator_species_allbps.csv', row.names = FALSE)
