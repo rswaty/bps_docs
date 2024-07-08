@@ -14,7 +14,7 @@ library(docxtractr)
 ## SET DIRECTORY AND MAKE LIST OF DOCS ------------
 
 # Specify the directory containing the docx files
-docx_directory <- "extract_tables/input_docs/"
+docx_directory <- "extract_tables_rs_start/input_docs/"
 
 # List all docx files in the directory
 docx_files <- list.files(path = docx_directory, pattern = "\\.docx$", full.names = TRUE)
