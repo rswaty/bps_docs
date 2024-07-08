@@ -1,0 +1,15 @@
+---
+title: "Notes, Ideas, Links"
+format: html
+---
+
+## Some goals
+
+* be able to get information from tables from multiple BpSs out of word docs into a dataframe
+* get all information from multiple word docs into a dataframe with different sections in different cells
+
+
+## Links
+
+* [how to extract plain text from .docx file using R SO post](https://stackoverflow.com/questions/50439684/how-to-extract-plain-text-from-docx-file-using-r)
+* [Need help to import a Word file into R with references and headings](https://stackoverflow.com/questions/63429736/need-help-to-import-a-word-file-into-r-with-references-and-headings)
