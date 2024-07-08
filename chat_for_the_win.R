@@ -186,3 +186,84 @@ print(combined_df)
 
 
 ## try to add in sclass description info -----
+
+library(officer)
+library(dplyr)
+library(tidyr)
+
+# Define the directory path
+directory_path <- "test_docs/short_docs/"
+
+# Function to extract "Info_Para" paragraphs and their content
+extract_info_para <- function(doc_path) {
+  doc <- read_docx(doc_path)
+  content <- docx_summary(doc)
+  
+  # Extract "Info_Para" paragraphs
+  info_para_indices <- which(content$style_name == "Info_Para")
+  info_para_texts <- content$text[info_para_indices]
+  info_para_content <- sapply(seq_along(info_para_indices), function(i) {
+    start <- info_para_indices[i] + 1
+    end <- if (i < length(info_para_indices)) info_para_indices[i + 1] - 1 else nrow(content)
+    paste(content$text[start:end], collapse = " ")
+  })
+  
+  # Extract "SClass_Info_Para" paragraphs
+  sclass_info_indices <- which(content$style_name == "SClass_Info_Para")
+  sclass_info_texts <- content$text[sclass_info_indices]
+  sclass_info_content <- sapply(seq_along(sclass_info_indices), function(i) {
+    start <- sclass_info_indices[i] + 1
+    end <- if (i < length(sclass_info_indices)) sclass_info_indices[i + 1] - 1 else nrow(content)
+    description_position <- grep("Description", content$text[start:end])
+    if (length(description_position) > 0) {
+      start <- start + description_position[1] - 1
+    }
+    paste(content$text[start:end], collapse = " ")
+  })
+  
+  # Combine the extracted content
+  combined_content <- c(info_para_content, sclass_info_content)
+  combined_texts <- c(info_para_texts, sclass_info_texts)
+  
+  # Adjust for different lengths of texts and content
+  if (length(combined_texts) > length(combined_content)) {
+    combined_content <- c(combined_content, rep("", length(combined_texts) - length(combined_content)))
+  } else if (length(combined_texts) < length(combined_content)) {
+    combined_texts <- c(combined_texts, rep("", length(combined_content) - length(combined_texts)))
+  }
+  
+  names(combined_content) <- combined_texts
+  
+  return(as.data.frame(t(combined_content), stringsAsFactors = FALSE))
+}
+
+# Get all docx files in the directory
+doc_paths <- list.files(directory_path, pattern = "\\.docx$", full.names = TRUE)
+
+# Extract data from each document and combine into a single dataframe
+data_list <- lapply(doc_paths, function(doc_path) {
+  doc_content <- tryCatch({
+    extract_info_para(doc_path)
+  }, error = function(e) {
+    cat("Error processing", doc_path, ":", conditionMessage(e), "\n")
+    NULL
+  })
+  
+  if (is.null(doc_content)) return(NULL) # Skip documents with errors or no "Info_Para"
+  doc_content$document <- basename(doc_path)
+  return(doc_content)
+})
+
+# Combine all documents into a single dataframe
+combined_df <- bind_rows(data_list)
+
+# Reorder columns to move 'document' to the first position
+combined_df <- combined_df %>% select(document, everything())
+
+# Print the dataframe
+print(combined_df)
+
+
+
+
+
