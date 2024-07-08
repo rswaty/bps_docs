@@ -98,6 +98,11 @@ df <- df %>% select(document, everything())
 print(df)
 
 
+## make a list of bold phrases
+
+doc_for_bold <- "test_docs/short_docs/13023_51-short.docx"
+
+
 ## get bold?  -----
 
 # Define the path to your document
