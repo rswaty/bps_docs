@@ -98,11 +98,6 @@ df <- df %>% select(document, everything())
 print(df)
 
 
-## make a list of bold phrases
-
-doc_for_bold <- "test_docs/short_docs/13023_51-short.docx"
-
-
 ## get bold?  -----
 
 # Define the path to your document
@@ -269,84 +264,6 @@ combined_df <- combined_df %>% select(document, everything())
 print(combined_df)
 
 
-## Clean up sclass sections to only have description information -----
 
-library(officer)
-library(dplyr)
 
-# Define the directory path
-directory_path <- "test_docs/short_docs/"
-
-# Function to extract content from a single document
-extract_doc_content <- function(doc_path) {
-  tryCatch({
-    # Read document
-    doc <- read_docx(doc_path)
-    content <- docx_summary(doc)
-    
-    # Initialize variables to store extracted content
-    info_para_content <- character()
-    description_columns <- character()
-    
-    # Loop through content to extract "Info_Para" and "SClass_Info_Para" sections
-    in_sclass_info <- FALSE
-    description_count <- 0
-    for (i in seq_along(content$style_name)) {
-      style <- content$style_name[i]
-      text <- content$text[i]
-      
-      if (style == "Info_Para") {
-        info_para_content <- c(info_para_content, text)
-      } else if (style == "SClass_Info_Para") {
-        # Check if we are in "SClass_Info_Para" section
-        in_sclass_info <- TRUE
-      } else if (in_sclass_info && !is.na(text) && text != "" && grepl("^Description", style)) {
-        # Capture all "Description" sections dynamically
-        description_columns <- c(description_columns, text)
-        description_count <- description_count + 1
-      } else {
-        # Exit if we are done capturing descriptions
-        if (in_sclass_info && description_count >= 5) break
-      }
-    }
-    
-    # Ensure there are exactly 5 "Description" columns
-    if (description_count < 5) {
-      missing_descriptions <- 5 - description_count
-      description_columns <- c(description_columns, rep("", missing_descriptions))
-    }
-    
-    # Combine the extracted content
-    combined_content <- c(info_para_content, description_columns)
-    combined_texts <- c(rep("Info_Para", length(info_para_content)), paste0("Description_", 1:5))
-    
-    # Create dataframe and return
-    combined_df <- as.data.frame(t(combined_content), stringsAsFactors = FALSE)
-    names(combined_df) <- combined_texts
-    combined_df$document <- basename(doc_path)
-    
-    return(combined_df)
-  }, error = function(e) {
-    cat("Error processing", doc_path, ":", conditionMessage(e), "\n")
-    return(NULL)
-  })
-}
-
-# Get all docx files in the directory
-doc_paths <- list.files(directory_path, pattern = "\\.docx$", full.names = TRUE)
-
-# Extract data from each document
-data_list <- lapply(doc_paths, extract_doc_content)
-
-# Filter out NULL elements (documents that failed processing)
-data_list <- data_list %>% discard(is.null)
-
-# Combine all valid documents into a single dataframe
-combined_df <- bind_rows(data_list)
-
-# Reorder columns to move 'document' to the first position
-combined_df <- combined_df %>% select(document, everything())
-
-# Print the dataframe
-print(combined_df)
 
