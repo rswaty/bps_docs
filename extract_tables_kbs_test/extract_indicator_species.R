@@ -16,7 +16,7 @@ library(docxtractr)
 # Specify the directory containing the docx files
 #*** kb Took ALL BpS description documents from Apex RMS git hub ref con repository:
 #https://github.com/ApexRMS/landfireReferenceConditions?tab=readme-ov-file
-docx_directory <- "extract_tables/input_docs/"
+docx_directory <- "extract_tables_rs_start/input_docs/"
 
 # List all docx files in the directory
 docx_files <- list.files(path = docx_directory, pattern = "\\.docx$", full.names = TRUE)
