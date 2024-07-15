@@ -1,0 +1,262 @@
+---
+title: "parse in python"
+format: html
+editor: visual
+---
+
+## basics
+
+* need to 'break apart' bps docs into parts so we can reassemble in a database
+* sections are denoted in multiple ways, mostly by **bold** which is a problem as there are bold sections in table
+* some ideas
+    * try to remove all tables then parse by bold
+    
+    
+    
+## python to remove tables
+
+```{python}
+
+# Specify the input and output directories
+input_directory = r'C:\Users\Randy\Documents\bps_docs\test_docs\two_docs'
+output_directory = r'C:\Users\Randy\Documents\bps_docs\no_tables'
+
+
+import os
+from docx import Document
+
+def remove_tables_from_docx(input_file, output_file):
+    # Load the document
+    doc = Document(input_file)
+    
+    # Find all tables in the document
+    tables = doc.tables
+    
+    # Iterate over tables in reverse order and delete them
+    for table in reversed(tables):
+        table._element.getparent().remove(table._element)
+    
+    # Save the modified document to the output file
+    doc.save(output_file)
+    print(f"Tables removed and saved to {output_file}")
+
+def process_directory(input_directory, output_directory):
+    # Create the output directory if it doesn't exist
+    if not os.path.exists(output_directory):
+        os.makedirs(output_directory)
+    
+    # Iterate over all files in the input directory
+    for filename in os.listdir(input_directory):
+        # Process only .docx files
+        if filename.endswith('.docx'):
+            input_file = os.path.join(input_directory, filename)
+            output_file = os.path.join(output_directory, filename)
+            remove_tables_from_docx(input_file, output_file)
+
+
+
+# Process the directory
+process_directory(input_directory, output_directory)
+
+
+
+
+```
+
+**Looks like it worked!**
+
+
+## Try to extract most **Bold** components to a dataframe
+
+Components:
+
+Vegetation Type
+Map Zones
+Model Splits or Lumps
+Geographic Range
+Biophysical Site Description
+Vegetation Description
+Disturbance Description
+Scale Description
+Adjacency or Identification Concerns
+Issues or Problems
+Native Uncharacteristic Conditions
+Comments
+
+```{python}
+import os
+import pandas as pd
+from docx import Document
+
+def extract_bold_text(doc, section_titles):
+    bold_texts = {title: '' for title in section_titles}
+    current_section = None
+    collect_text = False
+
+    for paragraph in doc.paragraphs:
+        # Check if the paragraph has bold text and matches a section title
+        is_bold_paragraph = any(run.bold for run in paragraph.runs)
+        paragraph_text = paragraph.text.strip()
+
+        if is_bold_paragraph and paragraph_text in section_titles:
+            current_section = paragraph_text
+            collect_text = True
+            print(f"Detected section: {current_section}")  # Debugging line
+        elif collect_text and current_section:
+            if is_bold_paragraph and paragraph_text in section_titles:
+                current_section = paragraph_text
+                print(f"Switching to section: {current_section}")  # Debugging line
+            else:
+                bold_texts[current_section] += ' ' + paragraph_text
+
+    # Clean up the collected texts
+    for section in bold_texts:
+        bold_texts[section] = bold_texts[section].strip()
+
+    return bold_texts
+
+def process_directory(input_directory, section_titles):
+    data = []
+    filenames = []
+
+    for filename in os.listdir(input_directory):
+        if filename.endswith('.docx'):
+            file_path = os.path.join(input_directory, filename)
+            doc = Document(file_path)
+            extracted_texts = extract_bold_text(doc, section_titles)
+            data.append(extracted_texts)
+            filenames.append(filename)
+
+    df = pd.DataFrame(data, index=filenames)
+    df.index.name = 'Document'
+    return df
+
+# Specify the input directory
+input_directory = r'C:\Users\Randy\Documents\bps_docs\test_docs\two_docs'
+
+# Specify the section titles to extract
+section_titles = [
+    "Vegetation Type",
+    "Map Zones",
+    "Model Splits or Lumps",
+    "Geographic Range",
+    "Biophysical Site Description",
+    "Vegetation Description",
+    "Disturbance Description",
+    "Scale Description",
+    "Adjacency or Identification Concerns",
+    "Issues or Problems",
+    "Native Uncharacteristic Conditions",
+    "Comments"
+]
+
+# Process the directory and create the DataFrame
+df = process_directory(input_directory, section_titles)
+
+# Save the DataFrame to a CSV file
+output_file = r'C:\Users\Randy\Documents\bps_docs\extracted_sections.csv'
+df.to_csv(output_file)
+
+print(f"Data extracted and saved to {output_file}")
+
+```
+
+
+dataframe empty---try R
+
+```{r}
+library(officer)
+library(tidyverse)
+library(xml2)
+
+# Function to extract bold text sections from a Word document
+extract_sections <- function(doc, section_titles) {
+  # Read the Word document
+  content <- read_docx(doc)
+  
+  # Initialize an empty list to store the sections
+  sections <- setNames(vector("list", length(section_titles)), section_titles)
+  
+  # Flag to track the current section
+  current_section <- NULL
+  
+  # Iterate through the document content
+  for (block in docx_summary(content)) {
+    if (block$content_type == "paragraph") {
+      # Get the text and formatting of the paragraph
+      text <- block$text
+      is_bold <- grepl("b", block$style)
+      
+      # Check if the paragraph matches any section title
+      if (is_bold && text %in% section_titles) {
+        current_section <- text
+      } else if (!is.null(current_section)) {
+        # Append the paragraph text to the current section
+        sections[[current_section]] <- paste(sections[[current_section]], text, sep = " ")
+      }
+    }
+  }
+  
+  # Clean up the section texts
+  sections <- map(sections, ~ str_trim(.x))
+  return(sections)
+}
+
+# Process the directory and create a DataFrame
+process_directory <- function(input_directory, section_titles) {
+  # List all .docx files in the directory
+  files <- list.files(input_directory, pattern = "\\.docx$", full.names = TRUE)
+  
+  # Initialize an empty list to store the extracted data
+  data <- list()
+  
+  # Iterate through the files and extract the sections
+  for (file in files) {
+    sections <- extract_sections(file, section_titles)
+    data <- append(data, list(sections))
+  }
+  
+  # Create a DataFrame from the extracted data
+  df <- bind_rows(data, .id = "Document")
+  df$Document <- basename(files)
+  return(df)
+}
+
+# Specify the input directory
+input_directory <- "C:/Users/Randy/Documents/bps_docs/no_tables/"
+
+# Specify the section titles to extract
+section_titles <- c(
+  "Vegetation Type",
+  "Map Zones",
+  "Model Splits or Lumps",
+  "Geographic Range",
+  "Biophysical Site Description",
+  "Vegetation Description",
+  "Disturbance Description",
+  "Scale Description",
+  "Adjacency or Identification Concerns",
+  "Issues or Problems",
+  "Native Uncharacteristic Conditions",
+  "Comments"
+)
+
+# Process the directory and create the DataFrame
+df <- process_directory(input_directory, section_titles)
+
+# Save the DataFrame to a CSV file
+output_file <- "C:/Users/Randy/Documents/bps_docs/extracted_sections.csv"
+write_csv(df, output_file)
+
+print(paste("Data extracted and saved to", output_file))
+
+
+
+```
+
+
+
+
+
+
+
