@@ -205,6 +205,14 @@ print(df)
 
 This works for the most part.  I want to add an NA into cells where there is no content in the section.  Getting some mismatched content  Or the issue may be empty sections.
 
+Having to ignore these sections:
+
+* BpS Dominant and Indicator Species
+* Fire Frequency
+* Succession Classes
+
+Will need to add in References
+
 ```{r}
 library(officer)
 library(dplyr)
@@ -234,10 +242,24 @@ extract_sections <- function(doc_path, sections) {
     section_index <- which(paragraphs$text == section)
     if (length(section_index) == 0) return(NA)
     content <- ""
-    for (i in (section_index + 1):nrow(paragraphs)) {
+    i <- section_index + 1
+    while (i <= nrow(paragraphs)) {
       if (paragraphs$text[i] %in% sections) break
       if (str_detect(paragraphs$text[i], "Succession Classes")) break
+      if (str_detect(paragraphs$text[i], "BpS Dominant and Indicator Species")) {
+        while (i <= nrow(paragraphs) && !paragraphs$text[i] %in% sections) {
+          i <- i + 1
+        }
+        break
+      }
+      if (str_detect(paragraphs$text[i], "Fire Frequency")) {
+        while (i <= nrow(paragraphs) && !paragraphs$text[i] %in% sections) {
+          i <- i + 1
+        }
+        break
+      }
       content <- paste(content, paragraphs$text[i], sep = "\n")
+      i <- i + 1
     }
     content <- trimws(content)  # Trim leading/trailing whitespace
     if (content == "") return(NA)  # Return NA if the section is empty
