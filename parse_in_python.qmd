@@ -292,3 +292,51 @@ print(df)
 
 ```
 
+Looks pretty good!
+
+
+## Create r-markdown for each row
+
+
+```{r}
+library(dplyr)
+library(stringr)
+library(rmarkdown)
+
+# Sample dataframe (you should replace this with your actual dataframe)
+# df <- ...
+
+# Function to create an R Markdown file for each row
+create_rmd_file <- function(row, headers, file_path) {
+  lines <- c("---",
+             "title: 'Document'",
+             "output: html_document",
+             "---",
+             "")
+  
+  for (header in headers) {
+    section_title <- paste("##", header)
+    section_content <- row[[header]]
+    if (!is.na(section_content) && section_content != "") {
+      lines <- c(lines, section_title, section_content, "")
+    }
+  }
+  
+  writeLines(lines, con = file_path)
+}
+
+# Directory to save the R Markdown files
+output_dir <- "output_rmds"
+dir.create(output_dir, showWarnings = FALSE)
+
+# Create an R Markdown file for each row in the dataframe
+for (i in 1:nrow(df)) {
+  row <- df[i, ]
+  file_name <- paste0("document_", i, ".Rmd")
+  file_path <- file.path(output_dir, file_name)
+  create_rmd_file(row, names(df), file_path)
+}
+
+```
+
+

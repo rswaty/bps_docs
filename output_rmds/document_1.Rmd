@@ -1,0 +1,66 @@
+---
+title: "Document"
+output:
+  word_document: default
+  html_document: default
+---
+
+## document
+13023_51.docx
+
+## Vegetation.Type
+Forest and Woodland
+
+## Map.Zones
+51
+
+## Model.Splits.or.Lumps
+This BpS is split into multiple models:
+Laurentian-Acadian Northern Hardwoods Forest (BpS 1302) was split into two models: 1302-2 Laurentian Acadian Northern Hardwoods Forests-Hemlock and 1302-3-Laurentian-Acadian Northern Hardwoods Forest - Northern Sugar Maple-Basswood.
+
+## Geographic.Range
+This system occurs in western Upper Peninsula of MI, in Subsections 212Tb, 212Ya, 212Jb, 212Sq, 212Jo and 212Sn.
+
+## Biophysical.Site.Description
+This type occurs principally on moraines of coarse and fine texture, on lacustrine silts and clays, and on medium-textured till over bedrock -- areas of consistent moisture and nutrient availability that are protected from fire. Typical sites are buffered from seasonal drought by fine-textured moisture-retaining soils or dense subsoil layers. Essential nutrients are mineralized from decaying organic matter at twice the rate of that in fire-dependent forest or wet forest communities.
+
+## Vegetation.Description
+This system is a mixture of mesophyllic hardwood species and is typified by Acer saccharum, Tilia americana, Fagus grandifolia (restricted to MZ51 and eastern MZ50), Betula allegheniensis and Ulmus americana. Populus tremuloides, Populus grandidentata and Betula papyrifera are early seral species in this system. Acer rubrum and Abies balsamea occasional species found in mid-seral stands, especially on less productive soils. Occasional Pinus strobus individuals were present in early and mid-seral stands that were in proximity to seed sources, but their presence in contemporary forests likely indicates a site that would have formerly been occupied more strongly by pine under the natural disturbance regime. Tsuga canadensis was an occasional late-seral species on more poor soils; however, its presence today likely suggests that the Laurentian-Acadian Pine-Hemlock-Hardwood Forest is a more appropriate BpS.
+
+Structurally, these uneven-aged forests were characterized by large volumes of coarse structurally complex woody debris arranged both vertically and horizontally beneath multi-storied canopies of different-aged cohorts, with super canopies composed of trees centuries old (Tyrell and Crow 1994). The dominant tree species are among the most moisture and nutrient-demanding species in the eastern US, and their distribution is confined to glacial landforms underlain by fertile soils (Woods 2000, Whitney 1986). Composition of the ground flora and understory varies along a moisture-nutrient gradient, and typically consists of high densities of shade-tolerant tree species and mesophilic herbaceous species including blue cohosh, yellow violet, sweet cicely, various ferns and ginseng. The shrub layer includes Canada yew, beaked hazel, moose wood and Amelanchier species.
+
+In the mid-1800s, there were 5.8 million acres of northern hardwood ecosystems in the Upper Peninsula of MI (Cleland et al. 2003). Sugar maple, hemlock, yellow birch, balsam fir, cedar in swales, spruce and beech were the dominant late-successional species recorded along section lines by GLO surveyors. Early-successional aspen and white birch comprised only two percent of the GLO line trees. Large openings likely occurred on less than one percent of the landscape.
+
+In the mid-1800’s, there were 8.4 million acres of northern hardwood ecosystems within the 17.8 million acres of forest lands in northern WI (Cleland et al. 2003). Yellow birch, sugar maple, hemlock, white pine, elm and basswood were the dominant late-successional species. Early-successional aspen, white birch and oak species comprised 4.8% of the GLO corner trees. Large openings likely occurred on less than one percent of the landscape.
+
+## Disturbance.Description
+These wind-driven ecosystems historically changed slowly over centuries due to fine-scale blowdowns, relatively rare broad-scale catastrophic storms, and even rarer fire events (Cleland et al. 2004, Woods 2000, Frelich and Lorimer 1991, Canham and Loucks 1984, Grimm 1984, Runkle 1982). Blowdowns affected conifers more than hardwoods, and older trees more than younger trees (Foster and Boose 1992, Webb 1989). These “asbestos” forests seldom burned (Grimm 1984, Stearns 1949), and exhibited a repeating and shifting steady state of fine-scaled mosaics of species whose overall proportions remained essentially constant (Borman and Likens 1979). 
+
+Fire Regime Description: Composed of fire-sensitive species, fires only occurred within this forest type following catastrophic wind events or during periods of extreme drought. This fire-resistance is due to high rates of organic matter decomposition and low rates of fuel accumulation, closed and multistoried canopy effects on microclimate, succulent ground-flora and herbaceous layers, high soil moisture storage capacity, and the dispersed canopies of volatile coniferous foliage within a fire-resistant deciduous hardwood matrix. The principal cause of fuel formation leading to fire in northern hardwood ecosystems is broad scale, storm-driven windthrow of catastrophic proportions (Canham and Loucks 1984, Dunn et al. 1983, Runkle 1982). Canham and Loucks (1984) estimated the return interval for catastrophic storms to be about 1,200yrs in northern Wisconsin. Their comparisons of the presettlement disturbance regime with contemporary climatological records suggest that catastrophic thunderstorms were the principal mechanism for large-scale windthrow, followed by tornadoes that accounted for one-third of blowdown recorded by surveyors. Not only were these storms nearly stand-replacing events in themselves, but after the slash resulting from them cured, the probability of fire increased exponentially. However, fires within undisturbed, intact systems that did start or that moved into these stands from adjacent areas tended to smolder in the duff layer and move very slowly, eventually going out and causing little damage to the overstory (Frelich and Lorimer 1991, Stearns 1949).
+
+Within the 5.8 million acres of northern hardwood ecosystems in the Upper Peninsula of Michigan, there were 146,028ac of blown down forests and 54,903 acres of burned areas based on analyses of General Land Office survey notes recorded between 1840 and 1855 (Cleland et al. 2004a, Maclean and Cleland 2003). Assuming a 15yr recognition window, the historical fire rotation was 1568yrs. If surveyors recognized a blow-down 20yrs after the event, catastrophic wind rotations would have been 786yrs, with a 30yr recognition window estimate of 1179yrs. Because of the fire-resistance of undisturbed mesic deciduous forests, these estimates suggest that approximately 40% of the blown-down areas within this forest type in the Upper Peninsula subsequently burned.
+
+Within the 8.4 million acres of northern hardwood ecosystems in northern Wisconsin, there were 396,485ac of blown-down forests and 61,800 acres of burned areas based on analyses of General Land Office survey notes recorded between 1840 and 1855 (Cleland et al. 2004a). Assuming a 15yr recognition window, the historical fire rotation was 2039yrs. If surveyors recognized a blow-down 20yrs after the event, catastrophic wind rotations would have been 425yrs, with a 30yr recognition window estimate of 637yrs. Because of the fire-resistance of undisturbed mesic deciduous forests, these estimates suggest that approximately 16% of the blown-down areas in this forest type in WI subsequently burned. WI’s northern hardwood communities experienced more wind and less fire disturbance than those in MI’s Upper Peninsula. Although wind rotations differed across the two-state area, fire rotations for northern hardwoods were uniformly very long, ranging from 1400 to more than 2000yrs.
+
+Fire Regime Group V is applicable to this system. Severe wind events were assumed to reset mature stands on an approximate 1100yr rotation in MI’s Upper Peninsula in the following VDDT models. Most replacement fire occurs in slash created by these wind events. Forty percent of the blowdown areas burn and revert to an open land or an early-seral aspen-birch stage that lasts 60yrs. Replacement fires without associated wind events are very rare.
+
+Insects and disease are present but in a very minor way most likely affecting individual trees versus at a stand level. As an example root and stem rot cause individual tree mortality primarily in late development. These types of disturbances would likely contribute to higher fuel loads and structural complexity of stands.
+
+## Scale.Description
+This type is a large patch or small patch system within the dominant BpS, northern hardwood - hemlock, across northern MN, northern WI and the western Upper Peninsula of MI.
+
+## Adjacency.or.Identification.Concerns
+This type is mostly embedded within the Northern Hardwood-Hemlock forest and occurs as small to large patches, associated with Sugar Maple - Hemlock and Sugar Maple - Yellow Birch cover types--the latter being primarily in Subsection 212Jc and 212Xc. The maple-basswood forest type is usually associated with more nutrient-rich and moisture-rich sites.
+
+## Issues.or.Problems
+In the course-scale assessment, this type was called Northern Hardwoods (#51). Kuchler (1964) typed the WI portion as Northern Hardwoods, but the UP portion as Northern Hardwood-Fir. We based this description on the FRCC Northern Hardwood-Fir description document.
+
+## Comments
+Prior to LANDFIRE Remap this BpS was named Northern Sugar Maple-Basswood Forest. 
+
+This model is adapted from LANDFIRE Model 511302-3 Northern Sugar-Maple-Basswood Forest by Doug Pearsall (dpearsall@tnc.org) and Brad Slaughter (slaughterb@michigan.gov). Model 511302-3 was based on Rapid Assessment Model created by Cleland, Merzenich and Parker for biophysical setting R6NHHEgl, "Northern Hardwood-Hemlock Forest (Great Lakes)". The LANDFIRE Model 511302-3 also used Rapid Assessment Model R6MBMHW as a basis for much of its characterization. In the MZ51 assessment, we are considering this type to be a large-patch system within a matrix of hemlock-northern hardwoods. 
+
+Comments from Rapid Assessment: In the course-scale assessment, this type was called Northern Hardwoods (#51). Kuchler typed the Wisconsin portion as Northern Hardwoods, but the UP portion as Northern Hardwood-Fir. We based this description on the FRCC Northern Hardwood-Fir description document. At the Great Lakes Rapid Assessment workshop it was agreed to rename as Northern Hardwood-Hemlock Forest (Great Lakes). Suggested reviewers: Eric Epstein (WDNR Natural Heritage Ecologist, Randy Hoffman (WDNR Natural Areas program), Eunice Padley (WDNR Div of Forestry), Mike Kost (Mich NFI), John Almendinger (MN DNR).
+
+Need review from Minnesota experts to include occurance of this BpS in MZ41. Suggested reviewers are Dave Cleland and Paul Tine.
+
