@@ -4,12 +4,12 @@ format: html
 editor: visual
 ---
 
-## basics
+## Basics
 
 -   need to 'break apart' bps docs into parts so we can reassemble in a database
 -   sections are denoted in multiple ways, mostly by **bold** which is a problem as there are bold sections in table
 -   some ideas
-    -   try to remove all tables then parse by bold
+    -   try to remove all tables then parse by bold-tables removed with Python
 
 ## python to remove tables
 
@@ -68,148 +68,15 @@ process_directory(input_directory, output_directory)
 
 Components:
 
-Vegetation Type 
-Map Zones Model 
-Splits or Lumps 
-Geographic Range 
-Biophysical Site 
-Description Vegetation 
-Description Disturbance 
-Description Scale Description 
-Adjacency or Identification Concerns 
-Issues or Problems 
-Native Uncharacteristic Conditions 
-Comments
-
-```{python}
-import pandas as pd
-import os
-from docx import Document
-
-# Define the columns for the DataFrame
-columns = [
-              "Vegetation Type",
-              "Map Zones",
-              "Model Splits or Lumps",
-              "Geographic Range",
-              "Biophysical Site Description",
-              "Vegetation Description",
-              "Disturbance Description",
-              "Scale Description",
-              "Adjacency or Identification Concerns",
-              "Issues or Problems",
-              "Native Uncharacteristic Conditions",
-              "Comments"
-]
-
-# Define the input directory containing Word documents
-input_directory = 'no_tables2'
-
-# Initialize an empty list to store data for each document
-data = []
-
-# Iterate over all files in the input directory
-for filename in os.listdir(input_directory):
-    if filename.endswith(".docx"):
-        doc_path = os.path.join(input_directory, filename)
-        doc = Document(doc_path)
-        
-        # Initialize a dictionary to store content for each section
-        section_content = {col: "" for col in columns}
-        
-        # Extract content from each section (based on bold text)
-        for para in doc.paragraphs:
-            for col in columns:
-                if para.text.startswith(col):
-                    section_content[col] = para.text[len(col):].strip()
-        
-        # Append the section content to the data list
-        data.append(section_content)
-
-# Create a DataFrame from the collected data
-df = pd.DataFrame(data, columns=columns)
-
-# Print the DataFrame
-print(df)
-
-
-```
-
-
-* empty df
+Vegetation Type Map Zones Model Splits or Lumps Geographic Range Biophysical Site Description Vegetation Description Disturbance Description Scale Description Adjacency or Identification Concerns Issues or Problems Native Uncharacteristic Conditions Comments
 
 ## Get specific sections in R from table-less docs
 
-```{r}
-## try to add document names as first column ----
-
-library(officer)
-library(dplyr)
-library(stringr)
-
-# Define the directory path and sections
-directory_path <- "no_tables2/"
-sections <- c("Vegetation Type",
-              "Map Zones",
-              "Model Splits or Lumps",
-              "Geographic Range",
-              "Biophysical Site Description",
-              "Vegetation Description",
-              "Disturbance Description",
-              "Scale Description",
-              "Adjacency or Identification Concerns",
-              "Issues or Problems",
-              "Native Uncharacteristic Conditions",
-              "Comments")
-
-# Function to extract sections from a Word document
-extract_sections <- function(doc_path, sections) {
-  doc <- read_docx(doc_path)
-  paragraphs <- docx_summary(doc)
-  
-  content_list <- lapply(sections, function(section) {
-    section_index <- which(paragraphs$text == section)
-    if (length(section_index) == 0) return(NA)
-    content <- ""
-    for (i in (section_index + 1):nrow(paragraphs)) {
-      if (paragraphs$text[i] %in% sections) break
-      content <- paste(content, paragraphs$text[i], sep = "\n")
-    }
-    return(trimws(content))  # Trim leading/trailing whitespace
-  })
-  
-  names(content_list) <- sections
-  content_list <- as.data.frame(content_list)
-  content_list$document <- basename(doc_path)
-  return(content_list)
-}
-
-# Get all docx files in the directory
-doc_paths <- list.files(directory_path, pattern = "\\.docx$", full.names = TRUE)
-
-# Extract data from each document
-data_list <- lapply(doc_paths, function(doc_path) {
-  extract_sections(doc_path, sections)
-})
-
-# Combine the data into a single dataframe
-df <- bind_rows(data_list)
-
-# Move 'document' column to the first position
-df <- df %>% select(document, everything())
-
-# Print the dataframe
-print(df)
-
-```
-
-This works for the most part.  I want to add an NA into cells where there is no content in the section.  Getting some mismatched content  Or the issue may be empty sections.
-
 Having to ignore these sections:
 
-* BpS Dominant and Indicator Species
-* Fire Frequency
-* Succession Classes
+-   BpS Dominant and Indicator Species
+-   Fire Frequency
+-   Succession Classes
 
 Will need to add in References
 
@@ -294,9 +161,7 @@ print(df)
 
 Looks pretty good!
 
-
 ## Create r-markdown for each row
-
 
 ```{r}
 library(dplyr)
@@ -338,5 +203,3 @@ for (i in 1:nrow(df)) {
 }
 
 ```
-
-
