@@ -225,25 +225,27 @@ sections <- c("Vegetation Type",
               "Native Uncharacteristic Conditions",
               "Comments")
 
-# Function to extract sections from a Word document (excluding "Succession Classes")
+# Function to extract sections from a Word document
 extract_sections <- function(doc_path, sections) {
   doc <- read_docx(doc_path)
   paragraphs <- docx_summary(doc)
   
   content_list <- lapply(sections, function(section) {
     section_index <- which(paragraphs$text == section)
-    if (length(section_index) == 0) return("NA")
+    if (length(section_index) == 0) return(NA)
     content <- ""
     for (i in (section_index + 1):nrow(paragraphs)) {
-      if (paragraphs$text[i] %in% sections) {
-        if (paragraphs$text[i] == "Succession Classes") break
-      }
+      if (paragraphs$text[i] %in% sections) break
+      if (str_detect(paragraphs$text[i], "Succession Classes")) break
       content <- paste(content, paragraphs$text[i], sep = "\n")
     }
-    return(trimws(content))  # Trim leading/trailing whitespace
+    content <- trimws(content)  # Trim leading/trailing whitespace
+    if (content == "") return(NA)  # Return NA if the section is empty
+    return(content)
   })
   
   names(content_list) <- sections
+  content_list <- as.data.frame(content_list)
   content_list$document <- basename(doc_path)
   return(content_list)
 }
