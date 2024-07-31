@@ -1,0 +1,249 @@
+---
+title: "Recreate BpS docs"
+format: html
+---
+
+
+## Create r-markdown for each row
+
+```{r}
+library(dplyr)
+library(stringr)
+library(rmarkdown)
+
+# Sample dataframe (you should replace this with your actual dataframe)
+# df <- ...
+
+# Function to create an R Markdown file for each row
+create_rmd_file <- function(row, headers, file_path) {
+  lines <- c("---",
+             "title: 'Document'",
+             "output: html_document",
+             "---",
+             "")
+  
+  for (header in headers) {
+    section_title <- paste("##", header)
+    section_content <- row[[header]]
+    if (!is.na(section_content) && section_content != "") {
+      lines <- c(lines, section_title, section_content, "")
+    }
+  }
+  
+  writeLines(lines, con = file_path)
+}
+
+# Directory to save the R Markdown files
+output_dir <- "output_rmds"
+dir.create(output_dir, showWarnings = FALSE)
+
+# Create an R Markdown file for each row in the dataframe
+for (i in 1:nrow(df)) {
+  row <- df[i, ]
+  file_name <- paste0("document_", i, ".Rmd")
+  file_path <- file.path(output_dir, file_name)
+  create_rmd_file(row, names(df), file_path)
+}
+
+```
+
+## Add in References
+
+```{r}
+library(officer)
+library(dplyr)
+library(stringr)
+
+# Define the directory path and sections
+directory_path <- "no_tables2/"
+sections <- c("Vegetation Type",
+              "Map Zones",
+              "Model Splits or Lumps",
+              "Geographic Range",
+              "Biophysical Site Description",
+              "Vegetation Description",
+              "Disturbance Description",
+              "Scale Description",
+              "Adjacency or Identification Concerns",
+              "Issues or Problems",
+              "Native Uncharacteristic Conditions",
+              "Comments",
+              "References")  # Added References section
+
+# Function to extract sections from a Word document
+extract_sections <- function(doc_path, sections) {
+  doc <- read_docx(doc_path)
+  paragraphs <- docx_summary(doc)
+  
+  content_list <- lapply(sections, function(section) {
+    section_index <- which(paragraphs$text == section)
+    if (length(section_index) == 0) return(NA)
+    content <- ""
+    i <- section_index + 1
+    while (i <= nrow(paragraphs)) {
+      if (paragraphs$text[i] %in% sections) break
+      if (str_detect(paragraphs$text[i], "Succession Classes")) break
+      if (str_detect(paragraphs$text[i], "BpS Dominant and Indicator Species")) {
+        while (i <= nrow(paragraphs) && !paragraphs$text[i] %in% sections) {
+          i <- i + 1
+        }
+        break
+      }
+      if (str_detect(paragraphs$text[i], "Fire Frequency")) {
+        while (i <= nrow(paragraphs) && !paragraphs$text[i] %in% sections) {
+          i <- i + 1
+        }
+        break
+      }
+      content <- paste(content, paragraphs$text[i], sep = "\n")
+      i <- i + 1
+    }
+    content <- trimws(content)  # Trim leading/trailing whitespace
+    if (content == "") return(NA)  # Return NA if the section is empty
+    return(content)
+  })
+  
+  names(content_list) <- sections
+  content_list <- as.data.frame(content_list)
+  content_list$document <- basename(doc_path)
+  return(content_list)
+}
+
+# Get all docx files in the directory
+doc_paths <- list.files(directory_path, pattern = "\\.docx$", full.names = TRUE)
+
+# Extract data from each document
+data_list <- lapply(doc_paths, function(doc_path) {
+  extract_sections(doc_path, sections)
+})
+
+# Combine the data into a single dataframe
+df <- bind_rows(data_list)
+
+# Move 'document' column to the first position
+df <- df %>% select(document, everything())
+
+# Print the dataframe
+print(df)
+
+```
+
+**I think it worked**
+
+## Try r-markdown with proper file name and adding References section
+
+```{r}
+library(officer)
+library(dplyr)
+library(stringr)
+
+# Define the directory path and sections
+directory_path <- "no_tables2/"
+sections <- c("Vegetation Type",
+              "Map Zones",
+              "Model Splits or Lumps",
+              "Geographic Range",
+              "Biophysical Site Description",
+              "Vegetation Description",
+              "Disturbance Description",
+              "Scale Description",
+              "Adjacency or Identification Concerns",
+              "Issues or Problems",
+              "Native Uncharacteristic Conditions",
+              "Comments",
+              "References")  # Added References section
+
+# Function to extract sections from a Word document
+extract_sections <- function(doc_path, sections) {
+  doc <- read_docx(doc_path)
+  paragraphs <- docx_summary(doc)
+  
+  content_list <- lapply(sections, function(section) {
+    section_index <- which(paragraphs$text == section)
+    if (length(section_index) == 0) return(NA)
+    content <- ""
+    i <- section_index + 1
+    while (i <= nrow(paragraphs)) {
+      if (paragraphs$text[i] %in% sections) break
+      if (str_detect(paragraphs$text[i], "Succession Classes")) break
+      if (str_detect(paragraphs$text[i], "BpS Dominant and Indicator Species")) {
+        while (i <= nrow(paragraphs) && !paragraphs$text[i] %in% sections) {
+          i <- i + 1
+        }
+        break
+      }
+      if (str_detect(paragraphs$text[i], "Fire Frequency")) {
+        while (i <= nrow(paragraphs) && !paragraphs$text[i] %in% sections) {
+          i <- i + 1
+        }
+        break
+      }
+      content <- paste(content, paragraphs$text[i], sep = "\n")
+      i <- i + 1
+    }
+    content <- trimws(content)  # Trim leading/trailing whitespace
+    if (content == "") return(NA)  # Return NA if the section is empty
+    return(content)
+  })
+  
+  names(content_list) <- sections
+  content_list$document <- basename(doc_path)
+  return(as.data.frame(content_list))
+}
+
+# Get all docx files in the directory
+doc_paths <- list.files(directory_path, pattern = "\\.docx$", full.names = TRUE)
+
+# Extract data from each document
+data_list <- lapply(doc_paths, function(doc_path) {
+  extract_sections(doc_path, sections)
+})
+
+# Combine the data into a single dataframe
+df <- bind_rows(data_list)
+
+# Move 'document' column to the first position
+df <- df %>% select(document, everything())
+
+# Print the dataframe
+print(df)
+
+# Function to create an R Markdown file for each row
+create_rmd_file <- function(row, headers, file_path) {
+  lines <- c("---",
+             "title: 'Document'",
+             "output: html_document",
+             "---",
+             "")
+  
+  for (header in headers) {
+    section_title <- paste("##", header)
+    section_content <- row[[header]]
+    if (!is.na(section_content) && section_content != "") {
+      lines <- c(lines, section_title, section_content, "")
+    }
+  }
+  
+  # Adding "References" section
+  if (!is.na(row[["References"]]) && row[["References"]] != "") {
+    lines <- c(lines, "## References", row[["References"]], "")
+  } else {
+    lines <- c(lines, "## References", "", "Add your references here.", "")
+  }
+  
+  writeLines(lines, con = file_path)
+}
+
+# Directory to save the R Markdown files
+output_dir <- "output_rmds"
+dir.create(output_dir, showWarnings = FALSE)
+
+# Create an R Markdown file for each row in the dataframe
+for (i in 1:nrow(df)) {
+  row <- df[i, ]
+  file_name <- paste0(sub(".docx", "", row$document), ".Rmd")
+  file_path <- file.path(output_dir, file_name)
+  create_rmd_file(row, names(df), file_path)
+}
+
+```

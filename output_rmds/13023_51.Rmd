@@ -1,10 +1,17 @@
 ---
-title: 'Document'
-output: html_document
+title: "Document"
+output:
+  word_document: default
+  html_document: default
 ---
 
 ## document
 13023_51.docx
+
+```{r}
+plot(cars)
+```
+
 
 ## Vegetation.Type
 Forest and Woodland

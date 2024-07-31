@@ -1,4 +1,4 @@
-"","document","Vegetation.Type","Map.Zones","Model.Splits.or.Lumps","Geographic.Range","Biophysical.Site.Description","Vegetation.Description","Disturbance.Description","Scale.Description","Adjacency.or.Identification.Concerns","Issues.or.Problems","Native.Uncharacteristic.Conditions","Comments"
+"","document","Vegetation.Type","Map.Zones","Model.Splits.or.Lumps","Geographic.Range","Biophysical.Site.Description","Vegetation.Description","Disturbance.Description","Scale.Description","Adjacency.or.Identification.Concerns","Issues.or.Problems","Native.Uncharacteristic.Conditions","Comments","References"
 "1","13023_51.docx","Forest and Woodland","51","This BpS is split into multiple models:
 Laurentian-Acadian Northern Hardwoods Forest (BpS 1302) was split into two models: 1302-2 Laurentian Acadian Northern Hardwoods Forests-Hemlock and 1302-3-Laurentian-Acadian Northern Hardwoods Forest - Northern Sugar Maple-Basswood.","This system occurs in western Upper Peninsula of MI, in Subsections 212Tb, 212Ya, 212Jb, 212Sq, 212Jo and 212Sn.","This type occurs principally on moraines of coarse and fine texture, on lacustrine silts and clays, and on medium-textured till over bedrock -- areas of consistent moisture and nutrient availability that are protected from fire. Typical sites are buffered from seasonal drought by fine-textured moisture-retaining soils or dense subsoil layers. Essential nutrients are mineralized from decaying organic matter at twice the rate of that in fire-dependent forest or wet forest communities.","This system is a mixture of mesophyllic hardwood species and is typified by Acer saccharum, Tilia americana, Fagus grandifolia (restricted to MZ51 and eastern MZ50), Betula allegheniensis and Ulmus americana. Populus tremuloides, Populus grandidentata and Betula papyrifera are early seral species in this system. Acer rubrum and Abies balsamea occasional species found in mid-seral stands, especially on less productive soils. Occasional Pinus strobus individuals were present in early and mid-seral stands that were in proximity to seed sources, but their presence in contemporary forests likely indicates a site that would have formerly been occupied more strongly by pine under the natural disturbance regime. Tsuga canadensis was an occasional late-seral species on more poor soils; however, its presence today likely suggests that the Laurentian-Acadian Pine-Hemlock-Hardwood Forest is a more appropriate BpS.
 
@@ -22,7 +22,47 @@ This model is adapted from LANDFIRE Model 511302-3 Northern Sugar-Maple-Basswood
 
 Comments from Rapid Assessment: In the course-scale assessment, this type was called Northern Hardwoods (#51). Kuchler typed the Wisconsin portion as Northern Hardwoods, but the UP portion as Northern Hardwood-Fir. We based this description on the FRCC Northern Hardwood-Fir description document. At the Great Lakes Rapid Assessment workshop it was agreed to rename as Northern Hardwood-Hemlock Forest (Great Lakes). Suggested reviewers: Eric Epstein (WDNR Natural Heritage Ecologist, Randy Hoffman (WDNR Natural Areas program), Eunice Padley (WDNR Div of Forestry), Mike Kost (Mich NFI), John Almendinger (MN DNR).
 
-Need review from Minnesota experts to include occurance of this BpS in MZ41. Suggested reviewers are Dave Cleland and Paul Tine."
+Need review from Minnesota experts to include occurance of this BpS in MZ41. Suggested reviewers are Dave Cleland and Paul Tine.","Bormann, F.H. and Likens, G.E. 1979. Catastrophic disturbance and the steady state in northern hardwood forests. American Scientist. 67: 660-669.
+
+Braun, E.L. 1950. Deciduous Forests of Eastern North America. Blackburn Press. 596 pp.
+
+Canham, C.D. and Loucks, O.L. 1984. Catastrophic windthrow in the presettlement forests of Wisconsin. Ecology. 65: 803-809.
+
+Cleland, D.T., S.C. Saunders, T.R. Crow, D.I. Dickmann, A.L. Maclean, J.K. Jordan, R.L. Watson and A.M. Sloan. 2004. Characterizing historical and modern fire regimes in the Lake States: a landscape ecosystem approach. Landscape Ecology. 19: 311–325.
+
+Cleland, D.T., S.C. Saunders, K.M. Brosofske, A.L. Maclean, J.K. Jordan, R.L. Watson, A.M. Sloan, T.M. Scupien, T.R. Crow and D.I. Dickmann. 2003. Ongoing project to determine historical and modern wind and fire regimes, fire risk, and historical landscape and community composition and structure in the Lake States and R-9 National Forests. North Central Research Station of the USDA Forest Service.
+
+Davis, M.B., S. Sugita, R.R. Calcote, J.B. Ferrari and L.E. Frelich. 1994. Historical development of alternate communities in a hemlock hardwood forest in northern Michigan, USA. In Large Scale Ecology and Conservation Biology: The 35th Symposium of the British Ecological Society with the Society for Conservation Biology, 19-39. Edited by P.J. Edwards, R.M. May and N.R. Webb. University of Southampton. Blackwell Scientific Publications: Boston, MA.
+
+Dunn, Christopher P., Glenn R. Guntenspergen and John R. Dorney. 1983. Catastrophic wind disturbance in an old-growth hemlock-hardwood forest, Wisconsin. Canadian Journal of Botany. 61: 211-217. 
+
+Foster, David R. and Emery R. Boose. 1992. Patterns of forest damage resulting from
+catastrophic wind in central New England, USA. Journal of Ecology. 80: 79-98.
+
+Frelich, L.E. and C.G. Lorimer. 1991. Natural disturbance regimes in hemlock hardwood forests of the Upper Great Lakes Region. Ecological Monographs. 61(2): 159-162.
+
+Grimm, E.C. 1984. Fire and other factors controlling the Big Woods vegetation of Minnesota in the mid-nineteenth century. Ecological Monographs. 54: 291-311.
+
+Maclean, A.L. and D.T. Cleland. 2003. Determining the spatial extent of historical fires with geostatistics in northern Lower Michigan. In: Omi, P.N. and L.A. Joyce, tech. eds. Fire, fuel treatments, and ecological restoration conference proceedings, April 16-18 2002. Fort Collins, CO. Proc. RMRS-P-29. Fort Collins, CO: USDA Forest Service, Rocky Mountain Research Station: 289-300.
+
+Runkle, James Reade. 1982. Patterns of disturbance in some old growth mesic forests of eastern North America. Ecology. 63(5): 1533-1546.
+
+Stearns, F.W. 1949. Ninety years change in a northern hardwood forest in Wisconsin. Ecology. 30: 350-358.
+
+Stearns, F.W. 1949. Ninety years of change in a northern hardwood forest in Wisconsin. Ecology. 30: 350-358.
+
+Tyrell, L.E. and T.R. Crow. 1994. Structural characteristics of old-growth hemlock-hardwood forests in relation to age. Ecology. 75: 370-386.
+
+Webb, S.L. 1989. Contrasting windstorm consequences in two forests, Itasca State Park, Minnesota. Ecology. 70(4): 1167-1180.
+
+White, P.S. and S.T.A. Pickett. 1985. Natural disturbance and patch dynamics: an introduction. In: Pickett, S.T.A. and P.S. White, eds. The Ecology of Natural Disturbance and Patch Dynamics. Academic Press, New York, NY: 3-13.
+
+Whitney, G.G. 1986. Relation of Michigan's presettlement pine forests to substrate and
+disturbance history. Ecology. 67(6): 1548-1559.
+
+Woods, K.D. 2000. Long-term change and spatial pattern in a late-successional hemlock-northern hardwood forest. Journal of Ecology. 88: 267-282.
+
+USDA Forest Service, Rocky Mountain Research Station, Fire Sciences Laboratory. Fire Effects Information. 2002, December."
 "2","13110_50.docx","Forest and Woodland","50",NA,"This system spans from the eastern edge of the Great Plains, south to the Ozarks and eastward to western Ohio and Kentucky. The northern boundary of this vegetation occurs in LANDFIRE map zone (MZ)50.","This system occurs most commonly on interlobates where outwash, ice-contact and end moraine landforms are situated between former glacial lobes. Other landforms suitable for development of the dry oak forest are sandy lake plain and dunes. Common to all these landforms is somewhat excessively drained, acidic soil characterized by sand and loamy sand. Dry landscape settings, such as on western and southern aspects and upper slopes and ridge tops are conducive to the development of this system.","Oaks dominated the presettlement vegetation, especially white oak (Quercus alba), black oak (Quercus velutina), and bur oak (Quercus macrocarpa) (Bolliger et al. 2004). This system is distinguished from North-Central Interior Dry-Mesic Oak Forest and Woodland (1310) by stronger dominance of black oak and northern pin oak, and a general lack of red oak except in later seral stages. In Wisconsin, associates include black cherry (Prunus serotina), shagbark hickory (Carya ovata), and black walnut (Juglans nigra). Small trees associates include hop-hornbeam (Ostrya virginiana) and boxelder (Acer negundo). Common low woody shrubs include hazelnut (Corylus americana), brambles (Rubus spp.), black currant (Ribes cynosbati), and native roses (Rosa spp.). Graminoid species such as Carex pensylvanica, Danthonia spicata, and Andropogon gerardii are also common. In the most acidic lake plain physiographic systems, ericaceous shrubs such as wintergreen (Gualtheria procumbens), lowbush blueberry (Vaccinium angustifolium), huckleberry (Gaylussacia baccata) become common. Bracken fern (Pteridium aquilinum) can be dominant in the most nutrient poor outwash and lake plain landscapes.","The North-Central Interior Dry Oak Forest and Woodland is predominantly Fire Regime I, characterized by low-to-moderate severity surface fires. In Wisconsin, oak woodlands and forest occurred in a mosaic of small patches within a landscape dominated by oak savanna (Bolliger et al. 2004). Across the landscape, vegetation types varied based on fire frequency and severity. Grassland prairies burned frequently (annually or biennially) and were strongly associated with flat-to-slightly rolling terrain that effectively carried fire (Anderson 1999). Oak grubs (tree-sprout and shrub thickets) occurred where frequent prairie fires killed the tops of young trees that continue to sprout from deeply established root systems (Curtis 1959, Anderson and Bowles 1999). Savannas and woodlands developed within a moderate burning regime, with fire return times suggested to be between 5-15yrs. Closed-canopy oak forests would develop where fire return intervals stretched beyond 20-40yrs (Crow, 1988). If fire is excluded for several decades, more shade-tolerant and fire-sensitive species would gradually replace overstory oaks and oak regeneration is limited (Nowacki and Abrams 2008). Successional forest changes take more time in dry oak forests when site conditions are more xeric (Johnson et al. 2009). 
 
 Historically, grazing would have similarly maintained open conditions in savannas and was probably an important contributing factor maintaining oak-dominated open lands (savannas and woodlands) in presettlement times (Anderson 2006). High deer populations can also limit oak regeneration (Rooney and Waller 2003). Ice-damage, periodic insect defoliation and the passenger pigeon (now extinct) may have likely contributed to increased oak canopy openings that facilitated light penetration to the forest floor, and, ultimately, greater possibility of germination and recruitment of oaks (McEwan et al. 2011). 
@@ -39,4 +79,40 @@ Oak forest patches are virtually always integrated in the larger landscape scale
 
 Native grazing, due to higher deer densities than historically (at least in Wisconsin) further suppress recruitment of oaks and exacerbates the trend toward closed-canopy mesophytic species. Invasive species, including garlic mustard (Alliaria petiolata), buckthorn (Rhamnus cathartica), and honeysuckle (Lonicera spp.) are becoming increasingly prevalent in the understories of some stands (Schulte et al. 2011).
 
-Today, with fragmentation, development, and mesophytic species invasion, few original dry oak forest remain. However, succession of previous oak barrens to closed oak forests can add to the total area of current dry oak forests.","Red maple may or may not be a problem in southern Wisconsin oak forests, particularly not dry oak forests. See the silviculture handbook: http://dnr.wi.gov/topic/ForestManagement/documents/24315/51.pdf",NA
+Today, with fragmentation, development, and mesophytic species invasion, few original dry oak forest remain. However, succession of previous oak barrens to closed oak forests can add to the total area of current dry oak forests.","Red maple may or may not be a problem in southern Wisconsin oak forests, particularly not dry oak forests. See the silviculture handbook: http://dnr.wi.gov/topic/ForestManagement/documents/24315/51.pdf",NA,"Abrams, M. D., and G. J. Nowacki. 2008. Native Americans as active and passive promoters of mast and fruit trees in the eastern USA. The Holocene 18:1123–1137.
+
+Anderson, R. C. 2006. Evolution and origin of the Central Grassland of North America: climate, fire, and mammalian grazers. The Journal of the Torrey Botanical Society 133:626–647.
+
+Anderson, R.C. and M.L. Bowles. 1999. Deep soil savannas and barrens of the midwestern United States, pp. 155-170. In R. C. Anderson, J. S. Fralish, and J. M. Baskin [eds.], Savannas, barrens, and rock outcrop plant communities of North America. Cambridge University Press, Cambridge, UK. 
+
+Bolliger, J., L. A. Schulte, S. N. Burrows, T. A. Sickley, and D. J. Mladenoff. 2004. Assessing Ecological Restoration Potentials of Wisconsin (U.S.A.) Using Historical Landscape Reconstructions. Restoration Ecology 12:124–142.
+
+Braun, E.L. 1950. Deciduous forests of eastern North America. Hafner Publishing Company, New York, NY.
+ 
+Comer, P.J., D.A. Albert, H.A. Wells, B.L. Hart, J.B. Raab, D.L. Price, D.M. Kashian, R.A. Corner, and D.W. Schuen. 1995. Michigan’s presettlement vegetation, as interpreted from the General Land Office Surveys 1816-1856. Michigan Natural Features Inventory, Lansing, MI. Digital Map.
+
+Crow, T.R. 1988. Reproductive mode and mechanisms for self-replacement of northern red oak (Quercus rubra)—A review. Forest Science: 34:19-40.
+
+Curtis, J.T. 1959. The Vegetation of Wisconsin. University of Wisconsin Press, Madison, WI.
+
+Cutter, B.E. and R.P. Guyette, 1994. Fire history of an oak-hickory ridge top in the Missouri Ozarks. American Midland Naturalist 132: 393-398.
+
+Gleason, H.A. 1913. The relation of forest distribution and prairie fires in the Middle West. Torreya 13: 173-181.
+
+Greller, A.M. 1988. Deciduous forest. Pages 288-316 in: M.G. Barbour and W.D. Billings, editors. North American terrestrial vegetation. Cambridge University Press, New York.
+
+Henderson, N.R. and J.N. Long. 1984. A comparison of stand structure and fire history in two black oak woodlands in northwestern Indiana. Botanical Gazette 145: 222-228.
+
+Johnson, P. S., S. R. Shifley, and R. Rogers. 2009. The Ecology and Silviculture of Oaks. 2 edition. CABI, Wallingford, Oxon ; New York.
+
+McEwan, R. W., J. M. Dyer, and N. Pederson. 2011. Multiple interacting ecosystem drivers: toward an encompassing hypothesis of oak forest dynamics across eastern North America. Ecography 34:244–256.
+
+Munoz, S. E., D. J. Mladenoff, S. Schroeder, and J. W. Williams. 2014. Defining the spatial patterns of historical land use associated with the indigenous societies of eastern North America. Journal of Biogeography 41:2195–2210.
+
+Nowacki, G. J., and M. D. Abrams. 2008. The Demise of Fire and “Mesophication” of Forests in the Eastern United States. BioScience 58:123–138.
+
+Rooney, T. P., and D. M. Waller. 2003. Direct and indirect effects of white-tailed deer in forest ecosystems. Forest Ecology and Management 181:165–176.
+
+Schuler, T.M. and McClain, W.R. 2003. Fire history of a ridge and valley oak forest. Newtown Square, PA, USDA Forest Service, Northeastern Forest Service. 
+
+Schulte, L. A., E. C. Mottl, and B. J. Palik. 2011. The association of two invasive shrubs, common buckthorn (Rhamnus cathartica) and Tartarian honeysuckle (Lonicera tatarica), with oak communities in the midwestern United States. Canadian Journal of Forest Research 41:1981–1992."
