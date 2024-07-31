@@ -1,0 +1,154 @@
+---
+title: 'Document'
+output: html_document
+---
+
+## document
+14071_41_50_51.docx
+
+## Vegetation.Type
+Steppe/Savanna
+
+## Map.Zones
+41, 50, 51
+
+## Model.Splits.or.Lumps
+This Biophysical Setting (BpS) was split into two - 1407-1 (Laurentian Pine-Oak Barrens) and 1407-2 (Jack-Pine Barrens)
+
+## Geographic.Range
+Laurentian Pine-oak Barrens were located on sandy outwash plains located along the climatic tension zone in Michigan and Wisconsin. In Michigan the system occurs along the Sandusky lakeplain, the Newaygo Outwash Plain, and in several counties of the Upper Peninsula, including Menominee, Dickinson, Delta and Chippewa counties (Comer et al. 1995). In Michigan, presently the distribution of this community is concentrated in the Newaygo Outwash Plain with additional remnants in the sandy outwash plains of Menominee and Dickinson counties and the sandy lakeplain of Huron County (Cohen 2000). In Michigan the system occurred in subsections 212 Ha, Hb, Hg, Ka; 222 Ja, Jb; 212 Tb, Td and 212 Rc. 
+
+Laurentain pine-oak barrens also occurred in Wisconsin between the southern oak barrens/ savanna and northern jack pine barrens (Cochrane and Iltis 2000, Curtis 1959). In Wisconsin, this system occurred in Subsections 212 Ta, 222 Kb, 222 Ra and Rb, 212 Qa, Qb, Qc and Qd.
+
+## Biophysical.Site.Description
+The Laurentian pine-oak barrens system is endemic to very dry, nutrient-impoverished landscape ecosystems. Pine-oak barrens occur on nearly level to slightly undulating ground in well-drained sandy glacial outwash, sandy glacial lakeplains, and less often on sandy areas in coarse-textured moraines. Soils of this xeric, fire-prone community are generally coarse-textured, well-drained sand or loamy sand of medium to slightly acid pH and low water retaining capacity. Soils typically lack the fine-textured alluvial horizon associated with soils of the oak openings and are thus more droughty. Oak-pine and oak barrens typically occur in bands surrounding prairie (Michigan Natural Features Inventory 1990). They are generally found in transitional areas along the tension zone (Cohen 2000).
+
+## Vegetation.Description
+The oak-pine barrens community is a heterogeneous savanna vegetation type. Structurally oak-pine barrens range from dense thickets of brush and understory scrub oak and pine amongst a matrix of grassland to park-like open woods of widely spaced mature oak and pines with virtually no shrub or sub-canopy layer above the open forb and graminoid understory (Chapman et al. 1995, Lohrentz and Mattei 1995, Michigan Natural Features Inventory 1990). The physiognomic variations, which occur along a continuum, are the function of the frequency and intensity of fire (Lohrentz and Mattei 1995). Typically, oak-pine barrens grade into prairie on one front and dry forest on the other. As noted by Curtis (1959), the flora of this community is a mixture of prairie and forest species. 
+
+The canopy layer generally varies from 5-60% cover (Chapman et al. 1989) and is dominated or co-dominated by the following trees: Quercus alba (white oak), Quercus velutina (black oak), Quercus ellipsoidalis (northern pin oak), Pinus strobus (white pine), Pinus resinosa (red pine) and Pinus banksiana (jack pine). The above species of pine and oak are also prevalent in the sub-canopy in shrubby clumps, especially where fire intensity is high. In addition, Acer rubra (red maple), Prunus serotina (black cherry), Populus grandidentata (bigtooth aspen), and Populus tremuloides (trembling aspen) are often found in the overstory and sub-canopy of this community. Along the transition zone and to the south, the most common overstory dominants are white oak, black oak and white pine. North of the transition zone, northern pin oak replaces black oak and red pine and jack pine become more prevalent in the canopy layer. (Michigan Natural Features Inventory 1990).
+
+Characteristic shrubs include: Amelanchier spp. (serviceberry), Arctostaphylos uva-ursi (bearberry or kinnikinick), Ceanothus americanus (New Jersey tea), Comptonia peregrina (sweetfern), Corylus americana (American hazelnut), Cornus spp (dogwood species), Corylus cornuta (beaked hazelnut), Cratageus spp (hawthorn species), Gaultheria procumbens (wintergreen), Gaylussacia baccata (huckleberry), Prunus americana (wild plum), Prunus virginiana (choke cherry), Prunus pumila (sand cherry), Quercus prinoides (dwarf chestnut or dwarf chinkapin oak), Rosa carolina (pasture rose), Rubus flagellaris (northern dewberry), Salix humilis (prairie or upland willow) and Vaccinium angustifolium (low sweet blueberry).
+
+The ground layer is dominated by graminoids and forbs. Common species include Scizhachyrium scoparium (little bluestem), Andropogon gerardii (big bluestem) and Carex pensylvanica (Pennsylvania sedge), with Pennsylvania sedge often replacing the bluestems in shaded areas, fire suppressed communities, and north of the transition zone. Other prevalent herbs of the oak-pine barrens include: Aster oolentangiensis (sky-blue aster), Aureolaria spp. (false foxglove), Coreopsis lanceolata (tickseed), Danthonia spicata (poverty oats), Deschampsia flexuosa (hair grass), Euphorbia corollata (flowering spurge), Helianthus divaricatus (Divaricate sunflower), Koeleria macrantha (June grass), Krigia biflora (dwarf dandelion), Lathyrus ochroleucus (white pea), Lespedeza hirta (hairy lespedeza), Liatris cylindrica (dwarf blazing star), Lupinus perennis (wild lupine), Monarda fistulosa (wild bergamot), Pedicularis canadensis (wood betony) and Stipa avenacea (needle grass).
+
+## Disturbance.Description
+Frequent fire and, in some places, frost and drought conditions, maintain open canopy conditions by limiting the development of woody vegetation and thereby allowing the maintenance of a mixture of grasses and sedges. 
+
+Curtis (1959) suggested that oak barrens originated when prairie fires spread into surrounding closed oak forest with enough intensity to create open barrens. Repeated low intensity fires working in concert with periodic drought then maintain these barrens. Oak-pine barrens persist when fire disturbance prevents canopy closure and the dominance of woody vegetation. Presently, the prevalent catalyst of such fires is lighting strike but historically, Native Americans played an integral role in the fire regime, accidentally and/or intentionally setting fire to prairie ecosystems (Chapman 1984, in Lohrentz and Mattei 1995).
+
+The character of oak-pine barrens can differ dramatically as the result of varying fire intensity and frequency, which is influenced by climatic conditions, soil texture, and topography. Infrequent, high intensity fires kill mature oaks and produce barrens covered by scrubby oak sprouts and scattered pines, which survived the burn. Park-like barrens with widely spaced trees and an open grass understory are maintained by low intensity, frequent fires, which occur often enough to restrict oak seedlings (Chapman et al. 1995, Lohrentz and Mattei 1995). Frequent fires of low intensity can maintain high levels of grass and forb diversity by deterring the encroachment of woody vegetation and limiting the dominance of the mat-forming sedge Carex pensylvanica, (Pennsylvania sedge) (Corner 1996). 
+
+Diseases such as oak wilt also influenced the structure and species composition of pine-oak barrens. Oak wilt would have affected all oak species with white oak being more resistant to wilt than other oak species. Two-lined chestnut borer would affect oak species. Budworms could also pine species in the barrens. These insect breaks would have eliminated groups or clumps of trees. 
+
+Intense weather events such as tornados, down-bursts, or severe windthrow would have been infrequent in this system but severe if and when they did occur.
+
+## Scale.Description
+Historically there was considerable variation in the size and intensity of fires in pine-oak landscapes. As a result pine-oak barrens existed as a small to large patch within a matrix of prairies, barrens and pine-oak forests.
+
+## Adjacency.or.Identification.Concerns
+Most of the historical oak-pine barrens have been degraded by selective logging, livestock grazing, and fire suppression or destroyed by extensive timber harvest followed by slash fires and conversion to tree farms or plantations. Plant species of oak-pine barrens can persist through cycles of canopy closure and removal (Chapman et al., 1989). 
+
+Laurentian pine oak barrens may be confused with or mistaken for BpS 1407-2 Jack Pine Barrens, BpS 1395 North-Central Oak Barrens, or 1394 North-Central Interior Oak-Savanna. This system may also be referred to as jack pine barrens, oak barrens, or simply barrens. This system can be distinguished from North-Central Oak Barrens (13950) based on greater dominance of Jack pine, and it becomes the more likely barrens oak type in Province 212.
+
+Currently much of this system may be in a closed state due to fire suppression and may exist as a closed canopy oak or pine forest. Additionally, a large portion of the historic range of this system has been planted to pine plantation.
+
+In the absence of fire and with the prevalence of anthropogenic disturbance such as logging, off-road vehicle recreation, and livestock grazing, the following exotic species may be dominant components of the herbaceous layer of oak-pine barrens: Centaurea maculosa (spotted knapweed), Hieracium spp. (hawkweeds), Poa compressa (Canada bluegrass), Poa pratensis (Kentucky bluegrass) and Rumex acetosella (sheep sorrel).
+
+## Issues.or.Problems
+Need to acquire more detailed information about distribution of pine-oak barrens in Minnesota. Need more research on frequency of historical surface fire. What constitutes pine-oak barrens versus pine-oak forest or dry sand prairie depends on temporal and spatial scales.
+
+## References
+Albert, D.A. 1995. Regional landscape ecosystems of MI, MN and WI: a working map and classification. USFS – North Central Forest Experiment Station. 1992 Folwell Ave. St. Paul, MN 55108. 250 pp. 
+
+Albert, D.A., S.R. Denton and B.V. Barnes. 1986. Regional landscape ecosystems of Michigan. Ann Arbor, MI: University of Michigan, School of Natural Resources. 32 pp. and map.
+
+Anderson, R.C., J.S. Fralish and J.M. Baskin. 1999. Savannas, Barrens, and Rock Outcrop Plant Communities of North America. Cambridge University Press: Cambrisge, UK. 470 pp. 
+
+Barnes, B.V. 1991. Deciduous forests of North America. Pp 219-344 in E. Röhrig and B. Ulrich (eds.) Ecosystems of the World 7: Temperate Deciduous Forests. Elsevier, Amsterdam.
+
+Cleland, D.T., T.R. Crow, S.C. Saunders, D.I.. Dickmann, A.L. Maclean, J.K.Jordon, R.L. Watson, A.M. Loan and K.D. Brosofske. 2004. Characterizing historical and modern fire regimes in michigan (USA): A landscape ecosystem approach. Landscape Ecology. 19: 311–325.
+
+Cochrane, T.S. and H.H. Iltis. 2000. Atlas of the Wisconsin Prairie and Savanna Flora. Pages 8-47. Department of Natural Resources, Madison, WI.
+
+Chapman, K.A. 1984. An ecological investigation of native grassland in Southern Lower Michigan. M.A. thesis, Western Michigan University. Chapman, K.A., M.A. White and M.R. Huffman. 1989. Draft: Oak barrens stewardship abstract. Midwest Heritage Task Force, The Nature Conservancy. Minneapolis, MN.
+
+Chapman, K.A., M.A. White and M.R. Huffman. 1989. Draft: Oak barrens stewardship abstract. Midwest Heritage Task Force, The Nature Conservancy. Minneapolis, MN.
+
+Chapman, K.A., M.A. White, M.R. Huffman and D. Faber-Langendoen. 1995. Ecology and stewardship guidelines for oak barrens landscapes in the upper Midwest. In Forest Stearns and Karen Holland, eds., Proceedings of the Midwest Oak Savanna Conference, 1993. U.S. Environmental Protection Agency, Internet Publications. Cohen, J.G. 2000. Natural community abstract for oak-pine barrens. Natural Features Inventory, Lansing, MI. 6 pp.
+
+Cohen, J.G. 2000. Natural community abstract for oakpine barrens. Michigan Natural Features Inventory, Lansing, MI. 6 pp.
+
+Comer, P.J., D.A. Albert, H.A. Wells, B.L. Hart, J.B. Raab, D.L. Price, D.M. Kashian, R.A. Corner and D.W. Schuen. 1995. Michigan’s presettlement vegetation, as interpreted from the General Land Office Surveys 1816-1856. Michigan Natural Features Inventory, Lansing MI. digital map.
+
+Corner, R.A. 1996. Natural community abstract for pine barrens. Michigan Natural Features Inventory, Lansing, MI. 3 pp.
+
+Curtis, J.T. 1959. Vegetation of Wisconsin: An Ordination of Plant Communities. University. Of Wisconsin Press, Madison, WI. 657 pp.
+
+Curtis, J.T. 1959. The Vegetation of Wisconsin: An Ordination of Plant Communities. Pp. 295-307. University of Wisconsin Press, Madison, WI.
+
+Faber-Langendoen, D. 1993. A proposed classification for savannas in the Midwest. Background paper for the Midwest oak savanna conference. 8 pp.
+
+Faber-Langendoen, D. (editor). 1999. International classification of ecological communities: Terrestrial vegetation of the Midwestern United States. The Nature Conservancy, Midwest Conservation Science Department, Minneapolis MN.
+
+Forest stewardship training materials for oak-pine barrens ecosystem. (Unpublished manuscript). NatureServe: An online encyclopedia of life [web application]. 2000. Version 1.0 . Arlington (VA): Association for Biodiversity Information. Available: http://www.natureserve.org/. (Accessed: September 11, 2000).
+
+Hauser, R.S. 1953. An ecological analysis of the isolated prairies of Newaygo County, Michigan. Ph.D dissertation, Michigan State College.
+
+Kotar, J, J.A. Kovach and T.L. Burger. 2002. A guide to forest communities and habitat types of northern Wisconsin, 2nd ed. Madison, WI: University of Wisconsin Department of Forest Ecology and Management.
+
+Lohrentz, M. and L. Mattei. 1995. Newaygo prairie- barrens ecosystem site conservation plan. 59 pp.
+
+Michigan Natural Features Inventory. 1990. Draft description of Michigan natural community types. (Unpublished manuscript revised April 2, 1990). Michigan Natural Features Inventory. 1995. 
+
+NatureServe. 2007. International Ecological Classification Standard: Terrestrial Ecological Classifications. NatureServe Central Databases. Arlington, VA. Data current as of 10 February 2007.
+
+Nuzzo, V. 1986. Extent and status of Midwest oak savanna: presettlement and 1985. Natural Areas Journal 6: 6-36.
+
+## References
+Albert, D.A. 1995. Regional landscape ecosystems of MI, MN and WI: a working map and classification. USFS – North Central Forest Experiment Station. 1992 Folwell Ave. St. Paul, MN 55108. 250 pp. 
+
+Albert, D.A., S.R. Denton and B.V. Barnes. 1986. Regional landscape ecosystems of Michigan. Ann Arbor, MI: University of Michigan, School of Natural Resources. 32 pp. and map.
+
+Anderson, R.C., J.S. Fralish and J.M. Baskin. 1999. Savannas, Barrens, and Rock Outcrop Plant Communities of North America. Cambridge University Press: Cambrisge, UK. 470 pp. 
+
+Barnes, B.V. 1991. Deciduous forests of North America. Pp 219-344 in E. Röhrig and B. Ulrich (eds.) Ecosystems of the World 7: Temperate Deciduous Forests. Elsevier, Amsterdam.
+
+Cleland, D.T., T.R. Crow, S.C. Saunders, D.I.. Dickmann, A.L. Maclean, J.K.Jordon, R.L. Watson, A.M. Loan and K.D. Brosofske. 2004. Characterizing historical and modern fire regimes in michigan (USA): A landscape ecosystem approach. Landscape Ecology. 19: 311–325.
+
+Cochrane, T.S. and H.H. Iltis. 2000. Atlas of the Wisconsin Prairie and Savanna Flora. Pages 8-47. Department of Natural Resources, Madison, WI.
+
+Chapman, K.A. 1984. An ecological investigation of native grassland in Southern Lower Michigan. M.A. thesis, Western Michigan University. Chapman, K.A., M.A. White and M.R. Huffman. 1989. Draft: Oak barrens stewardship abstract. Midwest Heritage Task Force, The Nature Conservancy. Minneapolis, MN.
+
+Chapman, K.A., M.A. White and M.R. Huffman. 1989. Draft: Oak barrens stewardship abstract. Midwest Heritage Task Force, The Nature Conservancy. Minneapolis, MN.
+
+Chapman, K.A., M.A. White, M.R. Huffman and D. Faber-Langendoen. 1995. Ecology and stewardship guidelines for oak barrens landscapes in the upper Midwest. In Forest Stearns and Karen Holland, eds., Proceedings of the Midwest Oak Savanna Conference, 1993. U.S. Environmental Protection Agency, Internet Publications. Cohen, J.G. 2000. Natural community abstract for oak-pine barrens. Natural Features Inventory, Lansing, MI. 6 pp.
+
+Cohen, J.G. 2000. Natural community abstract for oakpine barrens. Michigan Natural Features Inventory, Lansing, MI. 6 pp.
+
+Comer, P.J., D.A. Albert, H.A. Wells, B.L. Hart, J.B. Raab, D.L. Price, D.M. Kashian, R.A. Corner and D.W. Schuen. 1995. Michigan’s presettlement vegetation, as interpreted from the General Land Office Surveys 1816-1856. Michigan Natural Features Inventory, Lansing MI. digital map.
+
+Corner, R.A. 1996. Natural community abstract for pine barrens. Michigan Natural Features Inventory, Lansing, MI. 3 pp.
+
+Curtis, J.T. 1959. Vegetation of Wisconsin: An Ordination of Plant Communities. University. Of Wisconsin Press, Madison, WI. 657 pp.
+
+Curtis, J.T. 1959. The Vegetation of Wisconsin: An Ordination of Plant Communities. Pp. 295-307. University of Wisconsin Press, Madison, WI.
+
+Faber-Langendoen, D. 1993. A proposed classification for savannas in the Midwest. Background paper for the Midwest oak savanna conference. 8 pp.
+
+Faber-Langendoen, D. (editor). 1999. International classification of ecological communities: Terrestrial vegetation of the Midwestern United States. The Nature Conservancy, Midwest Conservation Science Department, Minneapolis MN.
+
+Forest stewardship training materials for oak-pine barrens ecosystem. (Unpublished manuscript). NatureServe: An online encyclopedia of life [web application]. 2000. Version 1.0 . Arlington (VA): Association for Biodiversity Information. Available: http://www.natureserve.org/. (Accessed: September 11, 2000).
+
+Hauser, R.S. 1953. An ecological analysis of the isolated prairies of Newaygo County, Michigan. Ph.D dissertation, Michigan State College.
+
+Kotar, J, J.A. Kovach and T.L. Burger. 2002. A guide to forest communities and habitat types of northern Wisconsin, 2nd ed. Madison, WI: University of Wisconsin Department of Forest Ecology and Management.
+
+Lohrentz, M. and L. Mattei. 1995. Newaygo prairie- barrens ecosystem site conservation plan. 59 pp.
+
+Michigan Natural Features Inventory. 1990. Draft description of Michigan natural community types. (Unpublished manuscript revised April 2, 1990). Michigan Natural Features Inventory. 1995. 
+
+NatureServe. 2007. International Ecological Classification Standard: Terrestrial Ecological Classifications. NatureServe Central Databases. Arlington, VA. Data current as of 10 February 2007.
+
+Nuzzo, V. 1986. Extent and status of Midwest oak savanna: presettlement and 1985. Natural Areas Journal 6: 6-36.
+

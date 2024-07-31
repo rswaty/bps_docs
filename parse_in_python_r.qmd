@@ -1,7 +1,7 @@
 ---
 title: "parse in python"
 format: html
-editor: visual
+editor: source
 ---
 
 ## Basics
@@ -19,7 +19,7 @@ editor: visual
 ```{python}
 
 # Specify the input and output directories
-input_directory = 'test_docs/two_docs'
+input_directory = 'test_docs/pine_oak_41_50_51/'
 output_directory = 'no_tables2'
 
 
@@ -81,7 +81,7 @@ Having to ignore these sections:
 -   Fire Frequency
 -   Succession Classes
 
-Will need to add in References
+
 
 ```{r}
 library(officer)
@@ -185,7 +185,7 @@ library(docxtractr)
 # Specify the directory containing the docx files
 #*** kb Took ALL BpS description documents from Apex RMS git hub ref con repository:
 #https://github.com/ApexRMS/landfireReferenceConditions?tab=readme-ov-file
-docx_directory <- "test_docs/two_docs/"
+docx_directory <- "test_docs/pine_oak_41_50_51/"
 
 # List all docx files in the directory
 docx_files <- list.files(path = docx_directory, pattern = "\\.docx$", full.names = TRUE)
@@ -199,7 +199,7 @@ all_tables <- list()
 # Iterate through each docx file
 for (docx_file_path in docx_files) {
   # Read in the docx file
-  docx_file <- read_docx(docx_file_path)
+  docx_file <- docxtractr::read_docx(docx_file_path)
   
   docx_describe_tbls(docx_file)
   
@@ -251,7 +251,7 @@ library(docxtractr)
 # Specify the directory containing the docx files
 #*** kb Took ALL BpS description documents from Apex RMS git hub ref con repository:
 #https://github.com/ApexRMS/landfireReferenceConditions?tab=readme-ov-file
-docx_directory <- "test_docs/two_docs/"
+docx_directory <- "test_docs/pine_oak_41_50_51/"
 
 # List all docx files in the directory
 docx_files <- list.files(path = docx_directory, pattern = "\\.docx$", full.names = TRUE)
@@ -265,7 +265,7 @@ all_tables <- list()
 # Iterate through each docx file
 for (docx_file_path in docx_files) {
   # Read in the docx file
-  docx_file <- read_docx(docx_file_path)
+  docx_file <- docxtractr::read_docx(docx_file_path)
   
   docx_describe_tbls(docx_file)
   
@@ -293,10 +293,9 @@ indicator_species <- bind_rows(all_tables) %>%
 write.csv(indicator_species, file = 'pieces/bps_indicators.csv', row.names = FALSE)
 ```
 
-
 ### Table 3: Fire Frequency
 
-Blank cells and formatting (centered fonts) may cause issues. **Looks OK, empty cells are empty and no issues with centered values. 
+Blank cells and formatting (centered fonts) may cause issues. \*\*Looks OK, empty cells are empty and no issues with centered values.
 
 ```{r}
 ## PACKAGES ------------
@@ -310,7 +309,7 @@ library(docxtractr)
 # Specify the directory containing the docx files
 #*** kb Took ALL BpS description documents from Apex RMS git hub ref con repository:
 #https://github.com/ApexRMS/landfireReferenceConditions?tab=readme-ov-file
-docx_directory <- "test_docs/two_docs/"
+docx_directory <- "test_docs/pine_oak_41_50_51/"
 
 # List all docx files in the directory
 docx_files <- list.files(path = docx_directory, pattern = "\\.docx$", full.names = TRUE)
@@ -324,7 +323,7 @@ all_tables <- list()
 # Iterate through each docx file
 for (docx_file_path in docx_files) {
   # Read in the docx file
-  docx_file <- read_docx(docx_file_path)
+  docx_file <- docxtractr::read_docx(docx_file_path)
   
   docx_describe_tbls(docx_file)
   
@@ -351,4 +350,3 @@ fire_frequency <- bind_rows(all_tables) %>%
 #*** kb changed output location
 write.csv(fire_frequency , file = 'pieces/fire_frequency.csv', row.names = FALSE)
 ```
-

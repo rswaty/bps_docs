@@ -1,0 +1,87 @@
+---
+title: 'Document'
+output: html_document
+---
+
+## document
+13110_51.docx
+
+## Vegetation.Type
+Forest and Woodland
+
+## Map.Zones
+51
+
+## Geographic.Range
+This system occurs throughout southern lower Michigan primarily in Macomb, Oakland, Livingston, Washtenaw, Jackson, Hillsdale, Shiawassee, St. Joseph, Kalamazoo, Barry, Kent, Montcalm and southern Newago Counties (Comer 1995). This encompasses Sections 222J and 222U (Cleland et al. 2007). This system occurs in 222Jg, 222Jh, 222Jc, 222Jb, 222Ja, 222Ua and 222Ue.
+
+## Biophysical.Site.Description
+This system occurs most commonly in the interlobate region of southern Michigan where outwash, ice-contact and end moraine landforms are situated between former glacial lobes. Other landforms suitable for development of the dry oak forest are sandy lake plain and dunes. Common to all these landforms is somewhat excessively drained, acidic soil characterized by sand and loamy sand. Dry landscape settings, such as on western and southern aspects and upper slopes and ridge tops are conducive to the development of this system. Dry-mesic oak-hickory forests and dry mixed oak forests can occur in very similar landscape settings. Slight differences in soil moisture holding capacity and pH can often be the defining factor. Dry mixed oak forests tend to occupy exposed kame tops and esker ridges in ice-contact terrain or on very excessively drained, highly acidic soil on flat outwash plains or sand lake plain. High exposure to desiccating wind and high solar radiation also favors development of dry mixed oak forests over dry-mesic oak-hickory forests. Soil texture of the former is usually no heavier than a loamy sand, whereas soil of the latter can be as heavy as a sandy clay loam in the lower pedon. 
+
+Furthermore, greater fire frequency historically may have selected for more fire-tolerant oaks than hickories. Native Americans played a critical role in the development and maintenance of mixed oak landscapes through fire ignition. Natives burned these landscapes for a variety of reasons. Fire encouraged open habitats which, in turn, increased food-producing plants (forbs, mast) and ungulate herbivores (meat). Also, lightning-strike ignitions, though limited in frequency, would have provided an additional source of ignition.
+
+## Vegetation.Description
+Typically, the vegetation consists of forests dominated by oaks, especially white oak (Quercus alba), black oak (Quercus velutina) and northern pin oak (Quercus ellipsoidalis). Along with oaks are pignut hickory (Carya glabra), red maple (Acer rubrum), black cherry (Prunus serotina) and sassafras (Sassafras albidum). American chestnut (Castanea dentata) was once dominant or codominant in the very southeastern portion of southern Michigan. Currently, decades of fire suppression have created subcanopies and shrub layers that are by witch-hazel (Hamamelis virginiana), flowering dogwood (Cornus florida) and hop-hornbeam (Ostrya virginiana). Common low woody shrubs include brambles (Rubus spp.), black currant (Ribes cynosbati) and both native and invasive roses (Rosa spp.). Graminoid species such as Carex pensylvanica, Danthonia spicata and Andropogon gerardii are also common. In the most acidic lake plain physiographic systems, ericaceous shrubs such as wintergreen (Gualtheria procumbens), lowbush blueberry (Vaccinium angustifolium), huckleberry (Gaylussacia baccata) become common. Bracken fern (Pteridium aquilinum) can be dominant in the most nutrient poor outwash and lake plain landscapes.
+
+## Disturbance.Description
+The North-Central Interior Dry Oak Forest and Woodland fire regime is predominantly characterized by low-severity surface fires, but replacement fires would have also occurred at 35-200yrs frequency. Historically, indigenous fires accounted for over 95% of the ignitions over these landscapes. Vegetation types varied based on fire frequency and intensity. Grassland prairies burned often with fire rotations as frequent as annually and were probably associated with flat-to-slightly rolling terrain that effectively carried fire. These grasslands, deliberately maintained by Native Americans for hunting purposes, were probably scattered throughout the forest matrix. Oak grubs (tree-sprout and shrub thickets) occurred where fire frequency was a bit less, probably 5-10yrs. Also, grub conditions would arise immediately after catastrophic burns that would top-kill tree-dominated communities. Savannas and woodlands developed within a moderate burning regime, with fire return times averaging every 4-17yrs (Henderson and Long 1984). Closed-canopy oak forests would develop where fire return intervals stretched beyond 20-40yrs (Crow 1988). Shade-tolerant, fire-sensitive maples (and associated late-successional trees) would regenerate and form understories beneath oak canopies when fire was excluded over several decades. With continued fire exclusion, maple and other late-successional species would gradually replace overstory oaks through gap capture (Sutherland and Hutchinson 2003). These shade-tolerant species would eventually form layered stratums of differing heights that will modify the microclimate and light environment to favor self-replacement with exclusion of oaks. A mosaic of vegetation types comprised oak landscapes contingent on fire history (Cutter and Guyette 1994). From a gross landscape perspective, oak forests occurred in a contiguous matrix integrated with oak savannas, grassland prairies, and mesic forests dominated by red and sugar maple. Fire frequency and intensity determined the proportion of each of these landscape ecosystems across the landscape matrix. Historically, buffalo grazing would have similarly maintained open conditions in very localized patches within savannas. Currently, an overabundance of deer is limiting oak regeneration in remnant oak forests in southern Michigan. Ice-damage, periodic insect defoliation and the extinct passenger pigeon may have likely contributed to increased oak canopy openings that facilitated light penetration to the forest floor, and, ultimately, greater possibility of germination and recruitment of oaks.
+
+## Scale.Description
+Pre-European oak forests covered hundreds of thousands of contiguous acres. When considered as a matrix with savannas and prairies, estimated acreage increases significantly.
+
+## Adjacency.or.Identification.Concerns
+Though often contiguous, oak patches are virtually always integrated in the larger landscape scale with mesic maple-dominated forests, dry-mesic oak-hickory forests, and dry oak barrens. Mesic maple forests were relegated to those areas where fire was restricted through facilitation by an edaphic factor such as heavy-textured soil or high water table or by natural fire breaks such as bodies of water and slightly protected depressions. Prolonged intervals (100-150yrs) were needed for maples to manifest their dominance. Dry-mesic oak-hickory forests often occurred adjacent to dry oak forests, defined by a topographic position that had more amenable well-drained soil, lower solar radiation, better moisture conditions, and more protection from drying winds and recurring fires. Lower slopes on north and east aspects were typical of oak-hickory forests whereas ridge tops and upper slopes on south and west aspects favored dry oak forests. Oak forests also graded into savannas and barrens (i.e., oak openings) when fire intervals shortened to the point where woody regeneration of overstory tree species was limited. Exposed areas where wind could carry flames at great distances tend to exhibit more savanna vegetation structure than a close oak forest. In areas where flat outwash extended beyond ice-contact terrain or end moraine, savannas would typically occur in the former abutting a closed forest on the latter landforms. Fires often burned from a west to east direction and stopped on the western edge of rivers (Gleason, 1913), leaving eastern edges forested. 
+
+Currently, under the past century's practice of fire suppression, oak forests are succeeding into a red maple-dominated forest. Prolific sprouting ability, light, wind-carried fruits, and the tendency to cast dense shade has enabled red maple to outcompete white and black oak in these systems. Without fire as a natural disturbance that prevents establishment of fire-sensitive species, mesophytic species are free to invade and recruit into the overstory. Furthermore, due to the naturally short life span of northern pin oak, red maple is poised to maintain its dominance once it has established a stable population. Its modifying effects on understory shade and quick nutrient uptake will exclude the understory intolerant northern pin oak. Implications to forestry, wildlife, and pest and disease outbreaks become apparent in the future.
+
+Today, with fragmentation, development, and mesophytic species invasion, few original dry oak forests remain. However, succession of previous oak barrens, such as in Allegan County, to closed oak forests has added to the total area of current dry oak forests.
+
+## Native.Uncharacteristic.Conditions
+Though present historically, red maple has been typified as the "native invasive" in oak forests. Its abundance in these systems measured in both stem density and basal area has grown considerably due to fire suppression and the marked increase in fire return interval. Abundance of aspen, sassafras and black cherry can also be attributed to fire suppression and poor silvicultural practices.
+
+## References
+Braun, E.L., 1950. Deciduous forests of eastern North America. Hafner Publishing Company, New York, NY.
+
+Cleland, D.T.; Freeouf, J.A.; Keys, J.E.; Nowacki, G.J.; Carpenter, C.A.; and McNab, W.H. 2007. Ecological Subregions: Sections and Subsections for the conterminous United States. Gen. Tech. Report WO-76D [Map on CD-ROM] (A.M. Sloan, cartographer). Washington, DC: U.S. Department of Agriculture, Forest Service, presentation scale 1:3,500,000; colored
+
+Comer, P.J., D.A. Albert, H.A. Wells, B.L. Hart, J.B. Raab, D.L. Price, D.M. Kashian, R.A. Corner and D.W. Schuen. 1995. Michigan's Native Landscape as Interpreted from the General Land Office Surveys 1816-1856. Michigan Natural Features Inventory, Lansing, MI. 78 pp.
+
+Corner, and D.W. Schuen. 1995. Michigan’s presettlement vegetation, as interpreted from the General Land Office Surveys 1816-1856. Michigan Natural Features Inventory, Lansing, MI. Digital Map.
+
+Crow, T.R. 1988. Reproductive mode and mechanisms for self-replacement of northern red oak (Quercus rubra)—A review. Forest Science: 34: 19-40.
+
+Cutter, B.E. and R.P. Guyette, 1994. Fire history of an oak-hickory ridge top in the Missouri Ozarks. American Midland Naturalist 132: 393-398.
+
+Gleason, H.A. 1913. The relation of forest distribution and prairie fires in the Middle West. Torreya 13: 173-181.
+
+Greller, A.M. 1988. Deciduous forest. Pages 288-316 in: M.G. Barbour and W.D. Billings, editors. North American terrestrial vegetation. Cambridge University Press, New York.
+
+Henderson, N.R. and J.N. Long. 1984. A comparison of stand structure and fire history in two black oak woodlands in northwestern Indiana. Botanical Gazette 145: 222-228.
+
+Schuler, T.M. and McClain, W.R. 2003. Fire history of a ridge and valley oak forest. Newtown Square, PA, USDA Forest Service, Northeastern Forest Service. 
+
+Sutherland, E.K., Hutchinson, T.F. and Yaussy, D.A., 2003. Introduction, study area description, and experimental design (Chapter 1). Newtown Square, PA, USDA Forest Service, Northeastern Research Station.
+
+## References
+Braun, E.L., 1950. Deciduous forests of eastern North America. Hafner Publishing Company, New York, NY.
+
+Cleland, D.T.; Freeouf, J.A.; Keys, J.E.; Nowacki, G.J.; Carpenter, C.A.; and McNab, W.H. 2007. Ecological Subregions: Sections and Subsections for the conterminous United States. Gen. Tech. Report WO-76D [Map on CD-ROM] (A.M. Sloan, cartographer). Washington, DC: U.S. Department of Agriculture, Forest Service, presentation scale 1:3,500,000; colored
+
+Comer, P.J., D.A. Albert, H.A. Wells, B.L. Hart, J.B. Raab, D.L. Price, D.M. Kashian, R.A. Corner and D.W. Schuen. 1995. Michigan's Native Landscape as Interpreted from the General Land Office Surveys 1816-1856. Michigan Natural Features Inventory, Lansing, MI. 78 pp.
+
+Corner, and D.W. Schuen. 1995. Michigan’s presettlement vegetation, as interpreted from the General Land Office Surveys 1816-1856. Michigan Natural Features Inventory, Lansing, MI. Digital Map.
+
+Crow, T.R. 1988. Reproductive mode and mechanisms for self-replacement of northern red oak (Quercus rubra)—A review. Forest Science: 34: 19-40.
+
+Cutter, B.E. and R.P. Guyette, 1994. Fire history of an oak-hickory ridge top in the Missouri Ozarks. American Midland Naturalist 132: 393-398.
+
+Gleason, H.A. 1913. The relation of forest distribution and prairie fires in the Middle West. Torreya 13: 173-181.
+
+Greller, A.M. 1988. Deciduous forest. Pages 288-316 in: M.G. Barbour and W.D. Billings, editors. North American terrestrial vegetation. Cambridge University Press, New York.
+
+Henderson, N.R. and J.N. Long. 1984. A comparison of stand structure and fire history in two black oak woodlands in northwestern Indiana. Botanical Gazette 145: 222-228.
+
+Schuler, T.M. and McClain, W.R. 2003. Fire history of a ridge and valley oak forest. Newtown Square, PA, USDA Forest Service, Northeastern Forest Service. 
+
+Sutherland, E.K., Hutchinson, T.F. and Yaussy, D.A., 2003. Introduction, study area description, and experimental design (Chapter 1). Newtown Square, PA, USDA Forest Service, Northeastern Research Station.
+

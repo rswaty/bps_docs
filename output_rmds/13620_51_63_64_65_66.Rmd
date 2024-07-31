@@ -1,0 +1,190 @@
+---
+title: 'Document'
+output: html_document
+---
+
+## document
+13620_51_63_64_65_66.docx
+
+## Vegetation.Type
+Forest and Woodland
+
+## Map.Zones
+51, 63, 64, 65, 66
+
+## Geographic.Range
+Laurentian-Acadian Northern Pine Oak Forest is a wide-ranging system occurring in Canada from Quebec west to Ontario and south in the United States in the northern Great Lakes states (Minnesota, Wisconsin, Michigan), New York, and New England (Menard and Gawler 2010).
+
+Northern pine-oak forests occur principally on sandy glacial outwash, sandy glacial lake plains, and less often on thin glacial drift over bedrock, inland dune ridges, and coarse-textured end moraines and ice-contact ridges. Soils are typically coarse- to medium- textured sand or loamy sand and are moderately to extremely acidic with a surface layer of mor humus from accumulated pine needles (Cohen 2002). The system occurred in proximity to other pyrogenic systems such as red pine -- jack pine forest and jack pine barrens -- but had a greater tendency to occur in areas with greater topographic relief and presence of wetlands and lakes that likely combined to reduce fire severity (Albert and Comer 2008).
+
+## Vegetation.Description
+Typically Pinus strobus (white pine) and/or P. resinosa (red pine) form a supercanopy over a canopy of co-dominant or subcanopy trees such as Acer rubrum (red maple), Betula papyrifera (paper birch), Populus grandidentata (bigtooth aspen), P. tremuloides (trembling aspen), Quercus alba (white oak), Q. rubra (red oak), Q. velutina (black oak), Q. ellipsoidalis (northern pin oak), Q. macrocarpa (bur oak), Pinus banksiana (jack pine), Tsuga canadensis (eastern hemlock), Abies balsamea (balsam fir), Picea glauca (white spruce), and P. rubens (red spruce) (Epstein et al. 2002; MNDNR 2003; Cohen et al. 2015; NatureServe 2016). Where the system occurs adjacent to or within large peatland complexes, additional canopy species may include Picea mariana (black spruce) and Thuja occidentalis (northern white cedar) (MNFI 2016). Portions of this type that occur on more mesic portions of the landscape may include Acer saccharum (sugar maple), Betula alleghaniensis (yellow birch), and Fagus grandifolia (American beech), although systems where these species are prevalent should be referred to Biophysical Setting (BpS) 5113022 (Laurentian-Acadian Northern Hardwoods Forest -- Hemlock).
+
+Small trees and shrubs are patchy to occasionally continuous. Prevalent species include balsam fir, Prunus virginiana (choke cherry), Hamamelis virginiana (witch-hazel), Corylus cornuta (beaked hazelnut), Amelanchier spp. (serviceberries), Gaylussacia baccata (huckleberry), Vaccinium angustifolium (low sweet blueberry), V. myrtilloides (Canada blueberry), and Lonicera canadensis (Canadian fly honeysuckle). On sand ridges within peatlands, species such as Ilex mucronata (mountain holly) and Viburnum cassinoides (wild raisin) may be present (MNFI 2016). Common dwarf shrubs include Epigaea repens (trailing arbutus), Gaultheria procumbens (wintergreen), Cornus canadensis (bunchberry), and Chimaphila umbellata (pipsissewa) (MNDNR 2003; Cohen et al. 2015). 
+
+The herbaceous layer in northern pine-oak forests is also patchy to continuous. Characteristic species include Eurybia macrophylla (large-leaved aster), Maianthemum canadense (Canada mayflower), Aralia nudicaulis (sarsaparilla), Mitchella repens (partridge-berry), Pyrola elliptica (large-leaved shinleaf), Trientalis borealis (starflower), Melampyrum lineare (cow-wheat), Pteridium aquilinum (bracken fern), Dendrolycopodium obscurum (ground-pine), Avenella flexuosa (wiry hair-grass), Oryzopsis asperifolia (rough-leaved rice-grass), Danthonia spicata (poverty grass), Brachyelytrum aristosum (long-awned wood grass), and Carex pensylvanica (Pennsylvania sedge) (Epstein et al. 2002; MNDNR 2003; Cohen et al. 2015). Lichens and mosses may also be prevalent in the ground layer (Menard and Gawler 2010).
+
+## Disturbance.Description
+The natural disturbance regime in northern pine-oak forests is characterized by both infrequent catastrophic fire and frequent stand-perpetuating surface fires. This system fits into Fire Regime Group I, with fires occurring every 10-30yrs and low- to moderate-intensity (surface) fires most common. Severe wind events affect mature stands as infrequently as >1000yrs (MNDNR 2003). Replacement fires occurred more frequently in barrens, young stands of mixed conifers, and mature closed conifers, whereas stands of mature, open conifers were primarily affected by surface fires.
+
+Young white and red pines are killed by surface fires, becoming more resistant to fire disturbance when mature (age 50-100yrs). Once mature (~50yrs), both red pine and white pine are fire-adapted species and can withstand surface fire quite well. Mature stands are less susceptible to stand-replacing fires, due to tall crowns and the wide spacing of dominant trees, which is maintained by surface fires. However, when catastrophic crown fires do occur, mortality is high in all structural layers, and survivorship depends on random variations in fire patterns resulting in unburned areas.
+
+Fifty to 100yrs is required for red and white pine to produce adequate amounts of viable seed for self-replacement; thus crown-fire rotations of <50-100yrs favor early successional species capable of sprouting or invasion (e.g., aspen and birch), as well as species capable of producing seed in short periods (e.g., jack pine and black spruce). White pine is a mid-tolerant species capable of regenerating under full light to shaded conditions. Red pine is less tolerant than white pine, and seedlings can only survive in ~35% or more full sunlight. This red pine-white pine community was predominantly even-aged due to frequent stand-replacing fires, with a relatively uniform structure in terms of tree height and diameter. During fire-free periods or periods with long surface fire rotation, mid-tolerant white pine gained dominance through gap-phase regeneration. During periods of repeated surface fires, red pine was favored over white pine. 
+
+Successional dynamics within this community were driven by interactions of disturbance regimes and neighborhood effects of nearby seed sources. Areas burning twice within short periods became temporary open lands and barrens or early-successional aspen-birch.                  
+
+Heinselman (1981) suggested there are two types of red-white pine systems -- those maintained by frequent surface fires and a crown-fire rotation <150yrs and those maintained by infrequent surface fires and crown-fire rotations between 150-300yrs. In the former, even-aged stands dominated, whereas in the latter systems, multi-aged white pine systems eventually developed. This description applies to red-white pine that occurred within landscape ecosystems where stand-replacing fires burned with 150yr rotations. Surface and crown fire regimes interacted to regulate age, landscape, within-stand structure, and succession within this community. Fire probability often increased with stand age due to the general increase in fuel (Clark 1990; Heinselman 1973), but individual tree susceptibility to damage or mortality from fire often declined with tree size due to increasing bark thickness and a separation of foliage from the ground, which reduces crown-fire occurrence. Red-white pine forests were disturbed by large-scale, stand-replacing, crown fires in northern Lower Michigan within rotations of 130-260yrs (Whitney 1986) and relatively frequent surface fires. In Michigan’s Upper Peninsula, Zhang et al. (1999) estimated that mixed red-jack-white pine communities burned on 160yr rotations and that red-white pine communities burned on 320yr rotations. Clark (1990), Heinselman (1981), and Frissel (1973) reported rotations of 135, 180, and 150yrs, respectively, for red-white pine communities in Minnesota. Cleland et al. (2004a) estimated crown-fire rotations for the red-white pine community to be 164, 174, and 207yrs in northern Lower Michigan, Michigan’s Upper Peninsula, and northern Wisconsin, respectively. Longer rotations in Wisconsin are believed to be due to a higher density of lakes and wetlands, resulting in a smaller surface area of upland landforms.
+
+This community may have promoted surface fires by forming a deep, well-aerated litter layer of pine needles (McCune 1988). Relatively frequent surface fires (10-30yr cycles) reduced fuel loadings, eliminated living fuel ladders, and promoted widely spaced trees that became increasingly resistant to crown fires over time (Frissell 1973). Surface fire regimes favored species with survival adaptations including thick bark and tall crowns and maintained a landscape with a large proportion composed of widely spaced, large pine. Surface fires also reduced competition and limited succession of more shade-tolerant species. Area maintained by surface fire was likely inversely related to area burned by crown fire, due to reduced fuel loadings and removal of shade-tolerant, coniferous fuel ladders. Fires burning in closed forests could be quite variable in intensity -- from light surface fires to intense crown fires. Thus, each fire event represented a complex of fire types, with forest maintenance surface fires and forest-replacement crown fires interacting to form a single overall regime. Increased frequency of maintenance fires lengthened crown-fire rotations by reducing fuel loadings and eliminating the fuel ladders that promote crown fires.
+
+Notes from 2017 BpS review:
+Drobyshev et al. (2009) reported wide variation in fire rotation intervals for Seney National Wildlife Refuge, 30-144yrs historically, with most fires being non-replacement.  Some areas had fire much more frequently. Fire frequency related to landform (also see White and Host 2008, report landform-fire relationship in Minnesota).
+Seedling establishment of red and white pines positively correlated with number of fires.  See Nyamai et al. (2014) for more information.  
+Magruder et al. (2013) report that thinning increases climatic resilience of red pine.
+
+## Scale.Description
+Landscape must be adequate in size to contain natural variation in vegetation and disturbance regime. Though the virgin stands of red and white pine are greatly reduced from pre-settlement conditions, scattered stands and ecosystems still exist to represent this type. The Boundary Waters Canoe Area Wilderness (BWCAW) is an example, along with the national forests in Minnesota (Chippewa, Superior), Michigan (Ottawa, Hiawatha), and Wisconsin (Chequamegon, Nicolet) and the Menominee Reservation in Wisconsin.
+
+## Adjacency.or.Identification.Concerns
+The natural range of red pine and white pine largely coincides with the extent of the Canadian shield. These pine forests were widespread in the past and included a diverse mixture of hardwood and conifer species including trembling aspen, bigtooth aspen, paper birch, white spruce, black spruce, balsam fir, red maple, sugar maple, and northern red oak. BpS 1301 -- Boreal Aspen Birch Forest has been eliminated and lumped into several other BpSs in the Great Lakes. Trembling aspen-paper birch may have been a significant component of the early successional stages of this and other BpSs. 
+
+Sites supporting dominance of Tsuga canadensis (>25%), with varying mixtures of Pinus strobus, Thuja occidentalis, and other northern hardwood species, such as Betula alleghaniensis, Acer saccharum, Fagus grandifolia, and Quercus rubra, and the absence of any of the Appalachian species, including Aesculus flava, Betula lenta, Liriodendron tulipifera, and Quercus prinus. Picea glauca, Picea rubens, and Abies balsamea <25%, are placed in Eastern Hemlock -- Eastern White Pine -- Yellow Birch Forest Group (Gawler and Faber-Langendoen 2015). Hemlock and white pine can be co-dominant at the margins of dune ridges that are otherwise characterized by more xeric red pine-white pine communities in Upper Michigan.
+
+Historically, this system was one of the most economically important species group in the lake states region. Extensive logging and subsequent slash fires that occurred throughout the Great Lakes in the mid- to late 1800s reduced the extent of this system.
+
+Other classifications (as of 2008): Michigan Natural Features Inventory: Dry-mesic Northern Forest. Minnesota: Central Dry Pine Woodland; Central Dry Oak-Aspen (Pine) Woodland; Central Dry-mesic Pine-Hardwood Forest (MNDNR 2003). Wisconsin: Northern Dry-mesic Forest (Epstein et al. 2002). National Vegetation Classification (NVC): Laurentian-Acadian Pine -- Oak Forest and Woodland Group; Associations CEGL002443 Pinus resinosa -- Pinus strobus/Corylus cornuta/Vaccinium angustifolium Forest; CEGL002445 Pinus strobus/Acer spicatum -- Corylus cornuta Forest; CEGL002480 Pinus strobus -- (Pinus resinosa) -- Quercus rubra Forest; CEGL005399 Pinus resinosa -- Pinus strobus -- (Quercus rubra)/Corylus cornuta Forest; CEGL006253 Pinus strobus -- Pinus resinosa/Cornus canadensis Forest; CEGL006506 Quercus rubra -- Acer rubrum -- Betula spp. -- Pinus strobus Ruderal Forest.
+
+## Issues.or.Problems
+At the suggestion of the Rapid Assessment model (R6RPWff): The VDDT model was modified to increase the probability of wind storm events. Frelich has documented wind disturbance of catastrophic proportions as occurring on a 1,000-2,000yr interval. Granted that this may possibly be the landscape-level mean, wind events are far more prevalent and occur randomly and with widespread regularity throughout the range of the red and white pine cover type. Thus, using local data, the wind event probability was increased to occur on an ~250yr average.
+
+## Comments
+Laurentian-Acadian Pine -- Oak Forest and Woodland Group per NVC (Menard and Gawler 2010; = Eastern White Pine -- Jack Pine -- Northern Red Oak Forest and Woodland Group). Described and modeled here is the Eastern White Pine -- Red Pine -- Northern Red Oak Forest and Woodland Alliance. The other Alliance under this Group is Pinus banksiana -- Pinus resinosa -- Quercus ellipsoidalis Forest and Woodland Alliance, which is described and modeled in the Great Lakes Pine Barrens BpS; 13620 may instead be the appropriate place for these jack pine forests.
+
+## References
+Albert, D.A., and P.J. Comer. 2008. Atlas of early Michigan’s forests, grasslands, and wetlands: An interpretation of the 1816 – 1856 General Land Office Surveys. Michigan State University Press, East Lansing, MI. 107 pp.
+
+Bergeron, Y. 1991. The influence of island and mainland lakeshore landscapes on boreal forest fire regimes. Ecology 72:1980–1992.
+
+Bergeron, Y. and J. Brisson. 1990. Fire regime in red pine stands at the northern limit of the species range. Ecology 17:1352-1364.
+
+Braun, E.L. 1950. Deciduous Forests of Eastern North America. Blackburn Press. Caldwell, NJ. 596 pp.
+
+Clark, James S. 1990. Fire and climate change during the last 750 years in northwestern Minnesota. Ecological Monographs 60(2):135-159.
+
+Cleland, D.T., S.C. Saunders, T.R. Crow, D.I. Dickmann, A.L. Maclean, J.K. Jordan, R.L. Watson and A.M. Sloan. 2004. Characterizing historical and modern fire regimes in the Lake States: A landscape ecosystem approach. Landscape Ecology 19:311-325. 2004. 
+
+Cleland, D.T., S.C. Saunders, K.M. Brosofske, A.L. Maclean, J.K. Jordan, R.L. Watson, A.M. Sloan, T.M. Scupien, T.R. Crow and D.I. Dickmann. 2003. Ongoing project to determine historical and modern wind and fire regimes, fire risk and historical landscape and community composition and structure in the Lake States and R-9 National Forests.
+
+Cohen, J. G. 2002. Natural Community abstract for dry-mesic northern forest. Michigan Natural Features Inventory, Lansing, MI. 12 pp.
+
+Comer, P.J., D.A. Albert, H.A. Wells, B.L. Hart, J.B. Raab, D.L. Price, D.M. Kashian, R.A. Cornerand D.W. Schuen. 1995. Michigan's Presettlement Vegetation, as Interpreted from the General Land Office Surveys 1816-1856. Michigan Natural Features Inventory, Lansing, MI. Digital map.
+
+Dansereau, P.R.and Bergeron, Y. 1993. Fire history in the southern boreal forest of
+northwestern Quebec. Can. J. For. Research 23:25-32.
+
+Drobyshev, I., Goebel, P.C., Hix, D.M., Corace, R.G. and Semko-Duncan, M.E., 2008. Pre-and post-European settlement fire history of red pine dominated forest ecosystems of Seney National Wildlife Refuge, Upper Michigan. Canadian Journal of Forest Research, 38(9), pp.2497-2514.
+
+Frissell, S.S. Jr. 1973. The importance of fire as a natural ecological factor in Itasca State Park, Minnesota. Quat. Research 3:397-407.
+
+Gawler, S.C., and D. Faber-Langendoen, mod. J. Drake. 2015. Tsuga canadensis - Pinus strobus - Betula alleghaniensis Forest Group. United States National Vegetation Classification. Federal Geographic Data Committee, Washington, D.C.
+
+Heinselman, M.L. 1981. Fire and succession in the conifer forests of North America. In forest succession: concepts and applications. West, D.C, H.H. Shugart and D.B. Botkin, eds. Springer-Verlag, New York. 374-406.
+
+Heinselman, M.L. 1978. Fire Intensity and Frequency as Factors In The Distribution and Structure of Northern Ecosystems. USDA, GTO, WO-26.
+
+Heinselman, M.L. 1973. Fire in the virgin forests of the Boundary Waters Canoe Area, Minnesota. University of Michigannnesota. Quat. Research 3:329-382.
+
+Holla, Teresa A. and Peggy I. Knowles. 1988. Age structure analysis of a virgin white pine, Pinus strobus, population. Canadian Field-Naturalist 102(2):221-226.
+
+Magruder, M., Chhin, S., Palik, B. and Bradford, J.B., 2013. Thinning increases climatic resilience of red pine. Canadian journal of forest research, 43(9), pp.878-889.
+
+McCune, Bruce. 1988. Ecological diversity in North American pines. Amer. J. Boany. 75(3):353-368.
+
+Menard, S., and S. Gawler. 2010. Laurentian-Acadian Pine - Oak Forest & Woodland [Version Date: 22Jan2010]. United States National Vegetation Classification. Federal Geographic Data Committee, Washington, D.C.
+
+Motzkin, G., P. Wilson, D.R. Foster and A. Allen. 1999. Vegetation patterns in heterogeneous landscapes: the importance of history and environment. Journal of Vegetation Science.
+
+NatureServe. 2007. International Ecological Classification Standard: Terrestrial Ecological Classifications. NatureServe Central Databases. Arlington, VA, USA. Data current as of 15 April 2007.
+
+Nyamai, P.A., Goebel, P.C., Hix, D.M., Corace, R.G. and Drobyshev, I., 2014. Fire history, fuels, and overstory effects on the regeneration-layer dynamics of mixed-pine forest ecosystems of eastern Upper Michigan, USA. Forest ecology and management, 322, pp.37-47.
+
+Quinby, P.A. 1991. Self-replacement in old-growth white pine forests of Temagami, Ontario. For. Ecol. Management 41:95-109.
+
+Turner, M.G., R.H. Gardner, V.H.  Dale and R.V. O'Neill. 1989. Predicting the spread of
+disturbance across heterogeneous landscapes. Oikos 55:121-129.
+
+USNVC [United States National Vegetation Classification]. 2016. United States National Vegetation Classification Database, V2.01. Federal Geographic Data Committee, Vegetation Subcommittee, Washington DC. 
+
+USDA Forest Service, Final Environmental Impact Statement for the Forest Plan Revision for the Chippewa and Superior National Forests, 2004.
+
+White, M.A. and Host, G.E., 2008. Forest disturbance frequency and patch structure from pre-European settlement to present in the Mixed Forest Province of Minnesota, USA. Canadian Journal of Forest Research, 38(8), pp.2212-2226.
+
+Whitney, G.G. 1986. Relation of Michigan's presettlement pine forests to substrate and
+disturbance history. Ecology 67(6):1548-1559.
+
+Zhang, Q., K.S. Pregitzer and D.D. Reed. 1999. Catastrophic disturbance in the presettlement forests of the Upper Peninsula of MI. Canadian Journal of Forest Research 29:106-114.
+
+## References
+Albert, D.A., and P.J. Comer. 2008. Atlas of early Michigan’s forests, grasslands, and wetlands: An interpretation of the 1816 – 1856 General Land Office Surveys. Michigan State University Press, East Lansing, MI. 107 pp.
+
+Bergeron, Y. 1991. The influence of island and mainland lakeshore landscapes on boreal forest fire regimes. Ecology 72:1980–1992.
+
+Bergeron, Y. and J. Brisson. 1990. Fire regime in red pine stands at the northern limit of the species range. Ecology 17:1352-1364.
+
+Braun, E.L. 1950. Deciduous Forests of Eastern North America. Blackburn Press. Caldwell, NJ. 596 pp.
+
+Clark, James S. 1990. Fire and climate change during the last 750 years in northwestern Minnesota. Ecological Monographs 60(2):135-159.
+
+Cleland, D.T., S.C. Saunders, T.R. Crow, D.I. Dickmann, A.L. Maclean, J.K. Jordan, R.L. Watson and A.M. Sloan. 2004. Characterizing historical and modern fire regimes in the Lake States: A landscape ecosystem approach. Landscape Ecology 19:311-325. 2004. 
+
+Cleland, D.T., S.C. Saunders, K.M. Brosofske, A.L. Maclean, J.K. Jordan, R.L. Watson, A.M. Sloan, T.M. Scupien, T.R. Crow and D.I. Dickmann. 2003. Ongoing project to determine historical and modern wind and fire regimes, fire risk and historical landscape and community composition and structure in the Lake States and R-9 National Forests.
+
+Cohen, J. G. 2002. Natural Community abstract for dry-mesic northern forest. Michigan Natural Features Inventory, Lansing, MI. 12 pp.
+
+Comer, P.J., D.A. Albert, H.A. Wells, B.L. Hart, J.B. Raab, D.L. Price, D.M. Kashian, R.A. Cornerand D.W. Schuen. 1995. Michigan's Presettlement Vegetation, as Interpreted from the General Land Office Surveys 1816-1856. Michigan Natural Features Inventory, Lansing, MI. Digital map.
+
+Dansereau, P.R.and Bergeron, Y. 1993. Fire history in the southern boreal forest of
+northwestern Quebec. Can. J. For. Research 23:25-32.
+
+Drobyshev, I., Goebel, P.C., Hix, D.M., Corace, R.G. and Semko-Duncan, M.E., 2008. Pre-and post-European settlement fire history of red pine dominated forest ecosystems of Seney National Wildlife Refuge, Upper Michigan. Canadian Journal of Forest Research, 38(9), pp.2497-2514.
+
+Frissell, S.S. Jr. 1973. The importance of fire as a natural ecological factor in Itasca State Park, Minnesota. Quat. Research 3:397-407.
+
+Gawler, S.C., and D. Faber-Langendoen, mod. J. Drake. 2015. Tsuga canadensis - Pinus strobus - Betula alleghaniensis Forest Group. United States National Vegetation Classification. Federal Geographic Data Committee, Washington, D.C.
+
+Heinselman, M.L. 1981. Fire and succession in the conifer forests of North America. In forest succession: concepts and applications. West, D.C, H.H. Shugart and D.B. Botkin, eds. Springer-Verlag, New York. 374-406.
+
+Heinselman, M.L. 1978. Fire Intensity and Frequency as Factors In The Distribution and Structure of Northern Ecosystems. USDA, GTO, WO-26.
+
+Heinselman, M.L. 1973. Fire in the virgin forests of the Boundary Waters Canoe Area, Minnesota. University of Michigannnesota. Quat. Research 3:329-382.
+
+Holla, Teresa A. and Peggy I. Knowles. 1988. Age structure analysis of a virgin white pine, Pinus strobus, population. Canadian Field-Naturalist 102(2):221-226.
+
+Magruder, M., Chhin, S., Palik, B. and Bradford, J.B., 2013. Thinning increases climatic resilience of red pine. Canadian journal of forest research, 43(9), pp.878-889.
+
+McCune, Bruce. 1988. Ecological diversity in North American pines. Amer. J. Boany. 75(3):353-368.
+
+Menard, S., and S. Gawler. 2010. Laurentian-Acadian Pine - Oak Forest & Woodland [Version Date: 22Jan2010]. United States National Vegetation Classification. Federal Geographic Data Committee, Washington, D.C.
+
+Motzkin, G., P. Wilson, D.R. Foster and A. Allen. 1999. Vegetation patterns in heterogeneous landscapes: the importance of history and environment. Journal of Vegetation Science.
+
+NatureServe. 2007. International Ecological Classification Standard: Terrestrial Ecological Classifications. NatureServe Central Databases. Arlington, VA, USA. Data current as of 15 April 2007.
+
+Nyamai, P.A., Goebel, P.C., Hix, D.M., Corace, R.G. and Drobyshev, I., 2014. Fire history, fuels, and overstory effects on the regeneration-layer dynamics of mixed-pine forest ecosystems of eastern Upper Michigan, USA. Forest ecology and management, 322, pp.37-47.
+
+Quinby, P.A. 1991. Self-replacement in old-growth white pine forests of Temagami, Ontario. For. Ecol. Management 41:95-109.
+
+Turner, M.G., R.H. Gardner, V.H.  Dale and R.V. O'Neill. 1989. Predicting the spread of
+disturbance across heterogeneous landscapes. Oikos 55:121-129.
+
+USNVC [United States National Vegetation Classification]. 2016. United States National Vegetation Classification Database, V2.01. Federal Geographic Data Committee, Vegetation Subcommittee, Washington DC. 
+
+USDA Forest Service, Final Environmental Impact Statement for the Forest Plan Revision for the Chippewa and Superior National Forests, 2004.
+
+White, M.A. and Host, G.E., 2008. Forest disturbance frequency and patch structure from pre-European settlement to present in the Mixed Forest Province of Minnesota, USA. Canadian Journal of Forest Research, 38(8), pp.2212-2226.
+
+Whitney, G.G. 1986. Relation of Michigan's presettlement pine forests to substrate and
+disturbance history. Ecology 67(6):1548-1559.
+
+Zhang, Q., K.S. Pregitzer and D.D. Reed. 1999. Catastrophic disturbance in the presettlement forests of the Upper Peninsula of MI. Canadian Journal of Forest Research 29:106-114.
+

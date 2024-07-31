@@ -1,0 +1,89 @@
+---
+title: 'Document'
+output: html_document
+---
+
+## document
+13622_41_50.docx
+
+## Vegetation.Type
+Forest and Woodland
+
+## Map.Zones
+41, 50
+
+## Model.Splits.or.Lumps
+This type is mesic to dry-mesic end of soil drainage continuum. Splits from 13621 which is more mesic.  Fire Regime Group III (13621 is Fire Regime Group I).
+
+## Geographic.Range
+The red pine (Pinus resinosa), white pine (Pinus strobus) cover type is found throughout the Great Lakes region, including northern Minnesota, Wisconsin, and Michigan. This red-white pine community described here is for map zone (MZ) 41 and historically occurred mainly in subsection 212La but also in 212Lb, c, d, and e. For MZ50, 212xb, also smaller patches across northern Wisconsin.
+
+## Biophysical.Site.Description
+The area is on part of the Laurentian Peneplain and is geologically complex. It is underlain with Precambrian rock mainly granite, greenstones, and slates. Soils where the type occurs are composed of sandy to sandy gravelly loams and till (Heinselman 1996; Ohmann and Ream 1971). Frequently occurs on end moraines.
+
+## Vegetation.Description
+Red pine often shares dominance with white pine in the overstory, red pine being more dominant on the drier sites. Balsam fir, white and black spruce, and white cedar may also be present. The tall shrub layer is not normally abundant with beaked hazel, green alder, and juneberry being the most common. The ground vegetation is often sparse, dominated by blueberry, sweet fern (Comptonia peregrina), large-leafed aster, and wild sarsaparilla (Aralia nudicaulis). Less abundant are bearberry (Arctostaphylos uva-ursi), wintergreen, and pipsissewa. 
+
+Stands are multi-aged, with at least two cohorts. Historically, there was often a super-canopy pine cohort followed by a younger, more abundant pine cohort. Due to variation in fire severity, there are small- to medium-scale inclusions of different cohorts within large stands (Heinselman 1996; Van Wagner 1971).
+
+## Disturbance.Description
+The fire regime is characterized by semi-frequent surface fires and infrequent crown fires with red pine stands burning more frequently than white pine. The average frequency for red pine is in the range of 10-40yrs (Heinselman 1973; Frissell 1973). The lower bound frequency for white pine is slightly longer with a range of 20-40yrs. These periodic surface fires can perpetuate the stand indefinitely, barring other disturbances such as logging or windthrow. Stand-replacement fires occur every 150-200yrs and 200-250yrs for red and white pine, respectively.
+
+## Scale.Description
+Landscape must be adequate in size to contain natural variation in vegetation and disturbance regime. Though the virgin stands of red and white pine are greatly reduced from pre-settlement conditions, scattered stands and ecosystems still exist to represent this type. The Boundary Waters Canoe Area Wilderness (BWCAW) is an example, along with the national forests in Minnesota (Chippewa, Superior), Michigan (Ottawa, Hiawatha), and Wisconsin (Chequamegon-Nicolet) and Menominee Reservation in Wisconsin.
+
+## Adjacency.or.Identification.Concerns
+Due to the complexity of the landform, adjacent types can include any type common to the region. However, most common adjacent types include jack pine, aspen, birch, and fir (mixedwood).
+
+As seen today, the shrub/hardwood understory of this type is much denser than was common historically due to fire suppression.
+
+Some sites were converted to aspen birch after logging. This occurred on the more mesic sites where the initial condition had a high component of aspen and birch.
+
+Much of this type was heavily altered during landscape-scale historical harvesting in the late 1800s and early 1900s (Mladenoff and Pastor 1993).
+
+## Issues.or.Problems
+The VDDT model was modified to increase the probability of wind storm events. Frelich has documented wind disturbance of catastrophic proportions as occurring on a 1,000-2,000yr interval. Granted that this may possibly be the landscape-level mean, wind events are far more prevalent and occur randomly and with widespread regularity throughout the range of the red and white pine cover type.
+
+## Comments
+Prior to LANDFIRE Remap this BpS was named Laurentian-Acadian Northern Pine Forest.
+
+## References
+Frissell, S.S. Jr. 1973. The importance of fire as a natural ecological factor in Itasca State Park, Minnesota. Quaternary Research. 3: 397-407.
+
+Heinselman, M.L. 1973. Fire in the virgin forests of the Boundary Waters Canoe Area, Minnesota. University of Minnesota. Quaternary Research. 3: 329-382.
+
+Heinselman, M.L. 1978. Fire intensity and frequency as factors in the distribution and structure of northern ecosystems. USDA, GTO, WO-26.
+
+Heinselman, M.L. 1996. The Boundary Waters Wilderness Ecosystem. University of Minnesota Press, Minneapolis, MN.
+
+Mladenoff, D.J., and J. Pastor. 1993. Sustainable forest ecosystems in the northern hardwood and conifer forest region: concepts and management. Pages 145-179 in: Defining sustainable forestry, Aplet, G.H., N. Johnson, J.T. Olson and V.A. Sample (eds.). Island Press, Washington, D.C.
+
+NatureServe. 2007. International Ecological Classification Standard: Terrestrial Ecological Classifications. NatureServe Central Databases. Arlington, VA. Data current as of 10 February 2007.
+
+Ohmann, L.F. and R.R. Ream. 1971. Wilderness ecology: virgin plant communities of the Boundary Waters Canoe Area. Research Paper NC-63, USDA Forest Service.
+Rudolf, P.O. 1990. Pinus resinosa Ait. red pine. In: Burns, R.M. and B.H. Honkala, editors. Silvics of North America. Vol. 1: Conifers. USDA Forest Service, Washington DC, US: 442-455.
+
+Swain, A.M. 1973. A history of fire and vegetation in northeastern Minnesota as recorded in lake sediments. Quaternary Research. 3: 383-396.
+
+Van Wagner, C.E. 1971. Fire and red pine. In: Annual Tall Timbers fire ecology conference, Frederickton, NB: 211-219.
+
+## References
+Frissell, S.S. Jr. 1973. The importance of fire as a natural ecological factor in Itasca State Park, Minnesota. Quaternary Research. 3: 397-407.
+
+Heinselman, M.L. 1973. Fire in the virgin forests of the Boundary Waters Canoe Area, Minnesota. University of Minnesota. Quaternary Research. 3: 329-382.
+
+Heinselman, M.L. 1978. Fire intensity and frequency as factors in the distribution and structure of northern ecosystems. USDA, GTO, WO-26.
+
+Heinselman, M.L. 1996. The Boundary Waters Wilderness Ecosystem. University of Minnesota Press, Minneapolis, MN.
+
+Mladenoff, D.J., and J. Pastor. 1993. Sustainable forest ecosystems in the northern hardwood and conifer forest region: concepts and management. Pages 145-179 in: Defining sustainable forestry, Aplet, G.H., N. Johnson, J.T. Olson and V.A. Sample (eds.). Island Press, Washington, D.C.
+
+NatureServe. 2007. International Ecological Classification Standard: Terrestrial Ecological Classifications. NatureServe Central Databases. Arlington, VA. Data current as of 10 February 2007.
+
+Ohmann, L.F. and R.R. Ream. 1971. Wilderness ecology: virgin plant communities of the Boundary Waters Canoe Area. Research Paper NC-63, USDA Forest Service.
+Rudolf, P.O. 1990. Pinus resinosa Ait. red pine. In: Burns, R.M. and B.H. Honkala, editors. Silvics of North America. Vol. 1: Conifers. USDA Forest Service, Washington DC, US: 442-455.
+
+Swain, A.M. 1973. A history of fire and vegetation in northeastern Minnesota as recorded in lake sediments. Quaternary Research. 3: 383-396.
+
+Van Wagner, C.E. 1971. Fire and red pine. In: Annual Tall Timbers fire ecology conference, Frederickton, NB: 211-219.
+

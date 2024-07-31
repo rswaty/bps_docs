@@ -1,7 +1,36 @@
-BPS_MODEL,Modelers,Modeler_email,Reviewers,Reviewer_email
-13023_51,Peggy Burkman,peggy_burkman@nps.gov,Dave Cleland,dcleland@fs.fed.us
-13023_51,Doug Pearsall,dpearsall@tnc.org,Bredan Ward,bward@fs.fed.us
-13023_51,Brad Slaughter,slaughterb@michigan.gov,None,None
-13110_50,Greg Nowacki,gnowacki@fs.fed.us,Dave Cleland,dcleland@fs.fed.us
-13110_50,None,None,Brendan Ward,bward@fs.fed.us
-13110_50,None,None,None,None
+"BPS_MODEL","Modelers","Modeler_email","Reviewers","Reviewer_email"
+"13110_50","Greg Nowacki","gnowacki@fs.fed.us","Dave Cleland","dcleland@fs.fed.us"
+"13110_50","None","None","Brendan Ward","bward@fs.fed.us"
+"13110_50","None","None","None","None"
+"13110_51","Jeff Lee","leejg@michigan.gov","Randy Swaty","rswaty@tnc.org"
+"13110_51","Michael Kost","kostma@michigan.gov","None","None"
+"13110_51","None","None","None","None"
+"13620_41_50","Jeremy Bennett","mte_jeremyb@yahoo.com","Dave Cleland","dcleland@fs.fed.us"
+"13620_41_50","Ron Waukau","ronwaukau@yahoo.com","None","None"
+"13620_41_50","Randy Swaty","rswaty@tnc.org","None","None"
+"13620_51_63_64_65_66","Becky Schillo","schillor@michigan.gov","Randy Swaty","rswaty@tnc.org"
+"13620_51_63_64_65_66","Brad Slaughter","slaughterb@michigan.gov","None","None"
+"13620_51_63_64_65_66","Doug Cox","mteecology@frontiernet.net","None","None"
+"13622_41_50","Randy Swaty","rswaty@tnc.org","Brian Palik","bpalik@fs.fed.us"
+"13622_41_50","None","None","Mark White","Mark_White@tnc.org"
+"13622_41_50","None","None","Dave Cleland","dcleland@fs.fed.us"
+"13950_41_42_43_49_52","Michael Kost","kostma@michigan.org","Robert Dana","Robert.Dana@dnr.state.mn.us"
+"13950_41_42_43_49_52","Nancy Braker","nbraker@tnc.org","Dave Cleland","dcleland@fs.fed.us"
+"13950_41_42_43_49_52","Fake Name","fake@tnc.org","Jim Drake","jim_drake@natureserve.org"
+"13950_41_42_43_49_52","Chris Weber","weberc@michigan.org","Brendan Ward","bward@fs.fed.us"
+"13950_41_42_43_49_52_02","Michael Kost","kostma@michigan.org","Robert Dana","Robert.Dana@dnr.state.mn.us"
+"13950_41_42_43_49_52_02","Nancy Braker","nbraker@tnc.org","Dave Cleland","dcleland@fs.fed.us"
+"13950_41_42_43_49_52_02","Fake Name","fake@tnc.org","Jim Drake","jim_drake@natureserve.org"
+"13950_41_42_43_49_52_02","Chris Weber","weberc@michigan.org","Brendan Ward","bward@fs.fed.us"
+"13950_50","Michael Kost","kostma@michigan.org","Robert Dana","Robert.Dana@dnr.state.mn.us"
+"13950_50","Nancy Brakar","nbraker@tnc.org","Dave Cleland","dcleland@fs.fed.us"
+"13950_50","Chris Weber","weberc@michigan.org","Brendan Ward","bward@fs.fed.us"
+"13950_51","Michael Kost","kostma@michigan.org","Robert Dana","Robert.Dana@dnr.state.mn.us"
+"13950_51","Nancy Brakar","nbraker@tnc.org","Dave Cleland","dcleland@fs.fed.us"
+"13950_51","Chris Weber","weberc@michigan.org","Alan Haney","ahaney@uwsp.edu"
+"14071_41_50_51","Doug Cox","mdeecology@frontiernet.net","Dave Cleland","dcleland@fs.fed.us"
+"14071_41_50_51","Becky Schillo","schillor@michigan.gov","Brendan Ward","bward@fs.fed.us"
+"14071_41_50_51","None","None","None","None"
+"14072_41_50_51","Dave Pergolski","mail373013@pop.net","Dave Cleland","dcleland@fs.fed.us"
+"14072_41_50_51","Becky Schillo","schillor@michigan.gov","None","None"
+"14072_41_50_51","Joshua Cohen","cohenjo@michigan.gov","None","None"

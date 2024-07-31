@@ -1,0 +1,112 @@
+---
+title: 'Document'
+output: html_document
+---
+
+## document
+14072_41_50_51.docx
+
+## Vegetation.Type
+Forest and Woodland
+
+## Map.Zones
+41, 50, 51
+
+## Model.Splits.or.Lumps
+This BpS is split into multiple models:
+This model is for the jack pine and jack pine-red pine forests of northern MN, WI, and MI.
+
+## Geographic.Range
+System occurs in northern lower MI, northern WI (212Ka), northern MN and eastern Ontario, north of the climatic tension zone (Curtis 1959) and is concentrated in the High Plains subsection in northern lower MI and in central WI subsection 212Q (Vora 1993). Also occurs in several locations in the Upper Peninsula of MI, and in northeastern WI (212Te) and is associated with the upper Mississippi and St. Croix Rivers in MN and WI (Comer 1996). There are scattered cases in WI's Northern Forest (212X).
+
+## Biophysical.Site.Description
+Jack pine and red pine-jack pine (-hardwood) forests are endemic to very dry, nutrient-impoverished landscape ecosystems. These ecosystems occur in landforms deposited by high-energy glacial melt waters, principally outwash plains and glacial lakebeds, underlain by well-sorted, coarse-textured sandy soils with low water retaining capacity. They also occur in bedrock-controlled landforms with shallow soils of limited moisture storage capacity, and on sand ridges within peatland complexes (Cohen et al. 2002; Cleland et al. 2004). They are generally found in cooler climates north of the tension zone. The topography is flat to gently rolling, typically with long expanses capable of carrying wildfires with few natural fire breaks, and often in proximity to even more fire-prone pine barrens.  The soils of this community are sandy, acidic, droughty and relatively infertile (Comer 1996). Where the system occurs on low sand ridges in peatland complexes, the higher water table promotes paludification, which results in accumulation of an organic horizon above the mineral layers. They become established in areas with continental climate, in which summers are typically short and warm to cool, and winters are cold (Pregitzer and Saunders 1999).
+
+## Vegetation.Description
+Pinus banksiana (jack pine) typically dominates the overstory canopy. Pinus resinosa (red pine) dominates some stands and may form a scattered supercanopy in stands otherwise dominated by jack pine.  Most of these trees were likely removed during the logging era. Quercus ellipsoidalis (northern pin oak) is also locally important. Canopy associates include Acer rubrum (red maple), Betula papyrifera (paper or white birch), Pinus strobus (white pine, which occasionally occurs in the supercanopy), Populus grandidentata (bigtooth aspen), Populus tremuloides (trembling aspen), Prunus serotina (black cherry) and Quercus rubra (red oak) (Cohen 2002). Picea mariana (black spruce) may also occur, particularly where the system occurs on dune ridges within peatlands. Many former areas of jack pine and red pine forests succeeded to open “stump prairies” or scrubby forests of Populus grandidentata (bigtooth aspen), P. tremuloides (quaking aspen), Betula papyrifera (paper birch), and Prunus serotina (black cherry) following widespread logging and slash fires in the mid-1800s to early 1900s (Cohen 2002; Epstein et al. 2002).  Vaccinium angustifolium (low sweet blueberry), V. myrtilloides (Canada blueberry), and Gaylussacia baccata (huckleberry) are common low shrubs; characteristic dwarf shrubs include Arctostaphylos uva-ursi (bearberry), Chimaphila umbellata (pipsissewa), Cornus canadensis (bunchberry), Epigaea repens (trailing-arbutus), and Gaultheria procumbens (wintergreen) (Epstein et al. 2002; MNDNR 2003; Cohen et al. 2015). In openings, Comptonia peregrina (sweet-fern), Prunus pumila (sand cherry), Salix humilis (prairie willow) and Corylus spp. (hazelnuts) may be present. On paludified sand ridges, species typical of peatlands, such as Chamaedaphne calyculata (leatherleaf) and Rhododendron groenlandicum (Labrador-tea) may proliferate. Characteristic herbaceous species include Pteridium aquilinum (bracken fern), Avenella flexuosa (wiry hair grass), Danthonia spicata (poverty grass),  Carex pensylvanica (Pennsylvania sedge), Aralia nudicaulis (sarsaparilla), Maianthemum canadense (Canada mayflower), Trientalis borealis (starflower), Mitchella repens (partridge-berry), Apocynum androsaemifolium (spreading dogbane), Eurybia macrophylla (large-leaved aster), Melampyrum lineare (cow-wheat), Linnaea borealis (twinflower), Oryzopsis asperifolia (rough-leaved rice-grass), and Piptatheropsis pungens (rice-grass) (Cohen 2002; Epstein et al. 2002; MNDNR 2003; Cohen et al. 2015). Mosses (e.g., Dicranum spp. and Pleurozium schreberi) and lichens (e.g., Cladina and Cladonia spp.) often form a mat on the soil (Cohen 2002). 
+
+At Crex Meadows in western WI, Vogl (1961) studied pine barrens as described by original land survey records. He estimated that there were 20 trees greater than 15cm (6in) in diameter per hectare. This translates to an average distance between trees of 24m (65ft). The trees in this community had typical open-grown shapes. They had branches most of the way down their trunks with many needles. Many burned jack pine snags were encountered by land surveyors in Michigan. Zimmerman (1956) reported that the tallest tree in his 50 study sites was 16m (52ft). The average tree height was only 8m (26ft). This may be misleading because past logging may have eliminated the largest trees and there has not been enough time to regenerate the tallest pines. Vogl (1961), in his analysis of General Land Office surveys conducted in western WI, found that the average diameter of Pinus banksiana was 25cm (10in) and of P. resinosa was 50cm (20in). This indicates that taller trees may have existed before logging and the subsequent slash-fires that swept through most barrens.
+
+## Disturbance.Description
+Frequent fire and, in some places, frost and drought conditions, maintain open canopy conditions by limiting the development of woody vegetation and allowing the maintenance of a mixture of grasses and sedges. Pine barrens were found in the most fire-prone and driest areas of the landscape, often west of natural fire breaks. Barrens typically occur within long expanses capable of carrying wildfires with few natural fire breaks. In rolling topography, pine barrens are found in depressions that collect cold air, forming frost pockets (Comer 1996). 
+
+Fire return intervals for stands in Minnesota are estimated at 30-50 years for moderate surface fires to 120-170 years for catastrophic fires (MNDNR 2003). 
+
+There are numerous estimates of fire return interval for upland jack pine systems depending on scale and geographic location of study. Whitney (1986) estimated average return time for canopy replacement fire in jack pine forests of northern lower MI to be about 80yrs. Similar return times (50-100yrs) have been estimated by Heinselman (1981) in MN. Whitney (1986) also estimated that surface fires occurred every 25yrs, while Heinselman (1981) suggested that on drier sites light to moderate surface fires may have occurred every 20-40yrs. Simard & Blank (1982) calculated presettlement fire frequency in the Mack Lake area of Oscoda County, MI to have averaged in the range of 13-41yrs. Historical reports document near-annual fires in barrens (Curtis 1959). In a synthesis of the fire literature for historic fire return intervals for the Great Lakes Region Dickman and Cleland (2002) report that the fire return interval for jack pine barrens ranged from 15-60yrs and fires may have even occurred on an annual basis. It is likely that the frequency of fires depended in part to indigenous burning. 
+
+Insect infestations in jack pine are also an important disturbance factor, often followed by canopy fire. Currently, jack pine budworm infestations can lead to stand-level mortality, but it is unclear how the insect behaved in presettlement. GLO data indicate that fire and windthrow were important in some barrens landscapes (Comer et al. 1995, Corner and Albert 1999). This system falls within Fire Regimes I and II.
+
+## Scale.Description
+This is matrix system that included prairie/barrens, savanna, and closed canopy forests. The patterning of these patch types was influenced by variation in the size, intensity and frequency of fires. Fire size, frequency and intensity was dependent on natural features, soil types, topography, climatic factors and the concentration of indigenous people.
+
+## Adjacency.or.Identification.Concerns
+Jack pine barrens often occurred on extensive areas of outwash plain intermixed with dry sand prairie and closed-canopy jack pine systems. The system grades into oak barrens and savannas in the south and into northern pine (oak) forests along to the north. It may be confused with Laurentian Pine-Oak Barrens (BpS 1407). 
+
+Many areas that once supported pine barrens and closed jack pine forests have been planted to red pine plantations. Also, current logging practices, clear cutting of jack pine without fire or reforestation practices, these sites have converted to aspen and birch stands. 
+
+Other classifications: Michigan Natural Features Inventory (MNFI) natural community classification: dry northern forest. The Nature Conservancy National Classification: CODE: (III.A.4a.SW20.00). International Vegetation Classification (IVC) Alliance: Pinus banksiana - Pinus resinosa - Quercus ellipsoidalis Forest & Woodland Alliance; Pinus banksiana - Pinus resinosa / Arctostaphylos uva-ursi Sand Woodland Alliance. Association: Pinus banksiana - (Pinus resinosa) - Quercus ellipsoidalis / Carex pensylvanica Forest; Pinus banksiana / Vaccinium spp. / Pleurozium schreberi Woodland; Pinus banksiana - Pinus resinosa - Pinus strobus Dune Forest; Pinus banksiana - (Pinus resinosa) / Corylus cornuta Forest; Pinus banksiana - Picea mariana / Vaccinium spp. / Pleurozium schreberi Forest. Kotar habitat type Group 1.
+
+## Issues.or.Problems
+Need to acquire more detailed information about distribution of pine barrens in MN. Need more research on frequency of historical surface fire. This model constitutes all jack pine dominated systems in MZ50. We incorporated dry sand prairie, jack pine barrens and jack pine forest into one model with each vegetation type representing a seral stage in the model. The amount of the landscape in each of these seral stages (dry sand prairie, jack pine barrens and jack pine forest) depended on temporal and spatial scales and was closely linked with fire return intervals. This differs from how the modelers in MZ51 (MI) chose to model jack pine systems. In MZ51 there are separate models for jack pine forests and jack pine barrens.
+
+## Comments
+Prior to LANDFIRE Remap this BpS was named Laurentian-Acadian Jack Pine Barrens and Forest.
+
+## References
+Dickman, D.I. and D.T. Cleland. 2002 Draft. Fire Return Intervals and Fire Cycles for Historic Fire Regimes in the Great Lakes Region: A Synthesis of the Literature. Draft manuscript. 20 pp.
+
+Comer, P.J. 1996. Natural community abstract for pine barrens. Michigan Natural Features Inventory, Lansing, MI. 3 pp.
+
+Comer, P.J., D.A. Albert, H.A. Wells, B.L. Hart, J.B. Raab, D.L. Price, D.M. Kashian, R.A. Corner and D.W. Schuen. 1995. Michigan's Presettlement Vegetation, as Interpreted from the General Land Office Surveys 1816-1856. Michigan Natural Features Inventory, Lansing, MI. Digital map.
+
+Corner, R.A. and D.A. Albert. 1999. Landtype associations of the high plains: subsection VII.2. Prepared for the Northern Lower Michigan Ecosystem Management Project. Michigan Natural Features Inventory report number 1999-03. 177 pp. plus maps.
+
+Curtis, J.T. 1959. Vegetation of Wisconsin: An Ordination of Plant Communities. U. of Wisconsin Press, Madison, WI. 657 pp.
+
+Dickmann, Donald and David Cleland. (2002). Fire Return Intervals and Fire Cycles for Historic Fire Regimes in the Great Lakes Region: A Synthesis of the Literature. http://www.ncrs.fs.fed.us/gla/natdist/purpose.htm.
+
+Heinselman, M.L. 1981. Fire intensity and frequency as factors in the distribution and structure of northern ecosystems. In: Mooney, H., J.M. Bonnicksen, N.L. Christensen, J.E. Lotan and W.A. Reiners, eds. Fire regimes and ecosystem properties. General Technical Report WO-26, USDA Forest Service, Washington, DC: 7-57.
+
+Kotar, John; Kovach A. Joseph, Burger L. Timothy. 2002. A Guide to Forest Communities and Habitat Types of Northern Wisconsin. University of Wisconsin. 136 pp.
+
+Pregitzer, K.S. and S.C. Saunders. 1999. Jack pine barrens of the northern Great Lakes region. In: Anderson, R.C., J.S. Fralish and J.M. Baskin, eds. Savannas, Barrens, and Rock Outcrop Plant Communities of North America. Cambridge, UK: 343-361.
+
+Simard, A.J. and R.W. Blank. 1982. Fire history of a Michigan jack pine forest. Mich. Acad. 15: 59-71.
+
+Vogl, R.J. 1967. Fire and the northern Wisconsin pine barrens. Proceedings of the Tall Timbers Fire Ecology Conference. 10: 175-209.
+
+Vora, R.S. 1993. Moquah barrens: Pine barrens restoration experiment initiated in Chequamegon National Forest. Restor. and Mgmt. Notes. 11(1): 39-44.
+
+Whitney, G.G. 1986. Relation of Michigan's presettlement pine forests to substrate and disturbance history. Ecology. 67(6): 1548-1559.
+
+Zimmerman, D.A. 1956. The jack pine association in the Lower Peninsula of Michigan: Its structure and composition. PhD thesis. U. of Michigan, Ann Arbor, MI.
+
+## References
+Dickman, D.I. and D.T. Cleland. 2002 Draft. Fire Return Intervals and Fire Cycles for Historic Fire Regimes in the Great Lakes Region: A Synthesis of the Literature. Draft manuscript. 20 pp.
+
+Comer, P.J. 1996. Natural community abstract for pine barrens. Michigan Natural Features Inventory, Lansing, MI. 3 pp.
+
+Comer, P.J., D.A. Albert, H.A. Wells, B.L. Hart, J.B. Raab, D.L. Price, D.M. Kashian, R.A. Corner and D.W. Schuen. 1995. Michigan's Presettlement Vegetation, as Interpreted from the General Land Office Surveys 1816-1856. Michigan Natural Features Inventory, Lansing, MI. Digital map.
+
+Corner, R.A. and D.A. Albert. 1999. Landtype associations of the high plains: subsection VII.2. Prepared for the Northern Lower Michigan Ecosystem Management Project. Michigan Natural Features Inventory report number 1999-03. 177 pp. plus maps.
+
+Curtis, J.T. 1959. Vegetation of Wisconsin: An Ordination of Plant Communities. U. of Wisconsin Press, Madison, WI. 657 pp.
+
+Dickmann, Donald and David Cleland. (2002). Fire Return Intervals and Fire Cycles for Historic Fire Regimes in the Great Lakes Region: A Synthesis of the Literature. http://www.ncrs.fs.fed.us/gla/natdist/purpose.htm.
+
+Heinselman, M.L. 1981. Fire intensity and frequency as factors in the distribution and structure of northern ecosystems. In: Mooney, H., J.M. Bonnicksen, N.L. Christensen, J.E. Lotan and W.A. Reiners, eds. Fire regimes and ecosystem properties. General Technical Report WO-26, USDA Forest Service, Washington, DC: 7-57.
+
+Kotar, John; Kovach A. Joseph, Burger L. Timothy. 2002. A Guide to Forest Communities and Habitat Types of Northern Wisconsin. University of Wisconsin. 136 pp.
+
+Pregitzer, K.S. and S.C. Saunders. 1999. Jack pine barrens of the northern Great Lakes region. In: Anderson, R.C., J.S. Fralish and J.M. Baskin, eds. Savannas, Barrens, and Rock Outcrop Plant Communities of North America. Cambridge, UK: 343-361.
+
+Simard, A.J. and R.W. Blank. 1982. Fire history of a Michigan jack pine forest. Mich. Acad. 15: 59-71.
+
+Vogl, R.J. 1967. Fire and the northern Wisconsin pine barrens. Proceedings of the Tall Timbers Fire Ecology Conference. 10: 175-209.
+
+Vora, R.S. 1993. Moquah barrens: Pine barrens restoration experiment initiated in Chequamegon National Forest. Restor. and Mgmt. Notes. 11(1): 39-44.
+
+Whitney, G.G. 1986. Relation of Michigan's presettlement pine forests to substrate and disturbance history. Ecology. 67(6): 1548-1559.
+
+Zimmerman, D.A. 1956. The jack pine association in the Lower Peninsula of Michigan: Its structure and composition. PhD thesis. U. of Michigan, Ann Arbor, MI.
+

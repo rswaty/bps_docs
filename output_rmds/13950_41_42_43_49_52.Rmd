@@ -1,0 +1,233 @@
+---
+title: 'Document'
+output: html_document
+---
+
+## document
+13950_41_42_43_49_52.docx
+
+## Vegetation.Type
+Steppe/Savanna
+
+## Map.Zones
+41, 42, 43, 49, 52
+
+## Geographic.Range
+North-Central Oak Barrens occur in a complex, shifting mosaic with open prairie, oak savanna, and dry oak woodlands in the upper Midwest. This type occurs in southern lower Michigan, northwestern Ohio, northern Indiana, northeastern Illinois, southern Wisconsin and southeastern to northwestern Minnesota. The system is found in ECOMAP (Cleland et al. 2007) subsections: 222J: b, h, g and sand deposits in the Huron/Erie Lake Plains Ecoregion, corresponding to the Oak Openings region west of Toledo in northwest Ohio, and on well-drained slopes and coarse-textured substrates in the Southern Michigan/Northern Indiana Drift Plains Ecoregion in northern Indiana (Woods et al. 1998).
+
+## Biophysical.Site.Description
+North-Central Oak Barrens occur on well-drained, nearly level to slightly undulating sandy glacial outwash, and less often on sandy moraines or ice contact features. Oak barrens typically occur in the driest landscape positions, such as ridge tops, steep slopes, south and west facing slopes, and flat sand plains. This xeric, fire-prone community is characterized by soils that are infertile, coarse-textured, well-drained sand or loamy sand with moderately to slightly acid pH and low water retaining capacity. Soils contain low organic matter and lack the fine-textured alluvial horizon associated with soils of the oak openings (oak savannas) and are thus droughty. Oak barrens typically occur in bands surrounding prairie (Chapman et al. 1995, Michigan Natural Features Inventory 2003). In general, oak barrens are most prevalent on the western side of major firebreaks such as rivers (Leitner et al. 1991, Grimm 1984, Curtis 1959). In the 1800s, the oak savanna communities (e.g., oak barrens, oak openings, oak savannas) covered some 11-13m ha (27-32m ac) of the Midwest (Nuzzo 1986).
+
+## Vegetation.Description
+The oak barrens community is a heterogeneous savanna vegetation type with variable physiognomy in time and space. Structurally, oak barrens range from dense thickets of brush and understory scrub oak within a matrix of grassland to park-like open woods of widely spaced mature oak with virtually no shrub or sub-canopy layer above the open forb and graminoid understory (Chapman et al. 1995, Bowles and McBride 1998, Michigan Natural Features Inventory 2003). The physiognomic variations, which occur along a continuum, are the function of the complex interplay between fire frequency and intensity (Chapman et al. 1995). Typically, oak barrens grade into prairie on one edge and dry forest on the other. As noted by Bray (1958) and Curtis (1959), the flora of this community is a mixture of prairie and forest species, with prairie forbs and grasses more abundant in high light areas and forest forbs and woody species in the areas of low light. 
+
+The canopy layer generally varies from 5-60% cover (Chapman et al. 1995) and is dominated or co-dominated by Quercus velutina (black oak) and Quercus alba (white oak). These species of oak are also prevalent in the sub-canopy in shrubby clumps, especially where fire intensity is high. In addition, Acer rubra (red maple), Prunus serotina (black cherry), Populus grandidentata (bigtooth aspen), Populus tremuloides (trembling aspen) and Quercus ellipsoidalis (northern pin oak) are often found in the overstory and sub-canopy of this community. Northern pin oak is especially common on excessively well-drained sites. Prevalent species of the subcanopy layer include Cornus spp. (dogwood species), Corylus americana (American hazelnut) and Prunus spp. (cherry species), and in Michigan, Sassafras albidum (sassafras). 
+
+Characteristic shrubs include: Amelanchier spp. (serviceberry), Arctostaphylos uva-ursi (bearberry), Ceanothus americanus (New Jersey tea), Comptonia peregrina (sweetfern), Corylus americana, Cornus spp., Corylus cornuta (beaked hazelnut), Cratageus spp. (hawthorn species), Gaultheria procumbens (wintergreen), Gaylussacia baccata (huckleberry), Prunus americana (wild plum), Prunus virginiana (choke cherry), Prunus pumila (sand cherry), Rosa carolina (pasture rose), Rubus flagellaris (northern dewberry), Salix humilis (prairie or upland willow) and Vaccinium angustifolium (low sweet blueberry) and in Michigan, Rhus copalina (shining sumac), Ptelea trifoliate (hop tree) and Quercus prinoides (dwarf chestnut or dwarf chinkapin oak).
+
+The ground layer is dominated by graminoids and forbs. Common species include Scizhachyrium scoparium (little bluestem), Andropogon gerardii (big bluestem) and Carex pensylvanica (Pennsylvania sedge), with Pennsylvania sedge often replacing the bluestems in shaded areas and fire-suppressed communities. Other prevalent herbs of the oak barrens include: Aster oolentangiensis (sky-blue aster), Aureolaria spp. (false foxglove), Coreopsis lanceolata (tickseed), Cyperus filiculmis (nut grass), Danthonia spicata (poverty oats), Deschampsia flexuosa (hair grass), Euphorbia corollata (flowering spurge), Helianthus divaricatus (tall sunflower), Hypericum perforatum (St. John’s-wort), Koeleria macrantha (June grass), Krigia biflora (dwarf dandelion), Lathyrus ochroleucus (white pea), Lespedeza hirta (hairy lespedeza), Liatris aspera (blazing star), Liatris cylindrica (dwarf blazing star), Lupinus perennis (wild lupine), Monarda fistulosa (wild bergamot), Panicum implicatum (grass panicum), Pedicularis canadensis (wood betony), Stipa avenacea (needle grass), Stipa spartea (needle grass), Tephrosia virginiana (goats-rue) and Viola pedata (birdfoot violet).
+
+## Disturbance.Description
+Cottam (1949) and Curtis (1959) suggested that oak savannas originated when prairie fires spread into surrounding closed oak forest with enough intensity to create open canopy conditions (also see Anderson and Brown 1986, Anderson and Bowles 1999). Other researchers have proposed that savannas also originated following invasion of prairie by oaks during prolonged lulls in annual fire regimes (Anderson and Bowles 1999, Grimm 1984). Repeated low-intensity fires working in concert with drought and windthrow then maintained these savannas (Faber-Langendoen and Tester 1993, Curtis 1959, Stout 1946). Within dry-mesic savanna systems, such as oak openings, it is likely that annual or nearly annual fire disturbance was the primary abiotic factor influencing savanna structure and composition. Fires prevented canopy closure and the dominance of woody vegetation (Leitner et al. 1991). Presently, the prevalent catalyst of fires is lightning strike, but historically, Native Americans played an integral role in the fire regime, accidentally and/or intentionally setting fire to prairie and savanna ecosystems (Anderson and Bowles 1999, Bowles and McBride 1998, Dorney and Dorney 1989, Chapman 1984, Grimm 1984, Day 1953). Where large-scale herbivores (i.e., elk and bison) were abundant, grazing may have helped inhibit the succession of oak savanna to woodland (Ritchie et al. 1998, McClain et al. 1993). 
+
+The character of oak barrens can differ dramatically, primarily as the result of varying fire intensity and frequency, which are influenced by climatic conditions, soil texture, topography, size of physiographic and vegetative units, and landscape context (i.e., proximity to water bodies and fire-resistant and fire-conducive plant communities) (Anderson and Bowles 1999, Chapman et al. 1995, Bowles et al. 1994, Grimm 1984). Historically, fire regimes were also influenced by the number and distribution of indigenous peoples (Chapman 1984). Infrequent, high-intensity fires may kill mature oaks and produce savannas and barrens covered by abundant scrubby oak sprouts. Park-like openings with widely spaced trees and an open graminoid/forb understory are maintained by frequent, low-intensity fires, which occur often enough to restrict maturation of oak seedlings and encroachment by other woody species (Peterson and Reich 2001, Chapman et al. 1995, Faber-Langendoen and Davis 1995).
+
+Oak wilt occurred on barrens likely resulting in mortality of larger oak groups especially when they occurred in high densities.
+
+## Scale.Description
+The expected fire regimes for this type are I (frequent ground fires) and III (mixed severity). The ground fire was the more commonly occurring fire disturbance, but when dry conditions combined with dense stand conditions, a mixed-severity fire could result, with the fire crowning into the canopy where fuel ladders were present. The scale of these fires is thought to occur on tens of thousands of acres.
+
+## Adjacency.or.Identification.Concerns
+The northern oak savanna type includes several matrix communities such as mesic and dry-mesic oak openings, dry oak barrens, mixed oak and oak-hickory woodlands, and a variety of small and large patch prairie types. 
+
+This system intergrades with North-Central Interior Oak Savanna (Biophysical Setting [BpS] 13940) on somewhat sandy sites and North-Central Interior Dry Oak Forest and Woodland (BpS 13110) at relatively sharp transitions between areas of higher and lower sand content. This system can be distinguished by high sand content. This system intergrades with Laurentian Pine-Oak Barrens (BpS 1407) along its northern extent. This system is found in Province 222 whereas Laurentian Pine-Oak Barrens is found north of the tension zone in Province 212.
+
+In the absence of fire and with the prevalence of anthropogenic disturbance such as logging, off-road vehicle recreation, and livestock grazing, the following exotic species may be dominant components of the herbaceous layer of oak barrens: Agropyron repens (quack grass), Agrostis stolonifera (creeping bent), Asparagus officinalis (wild asparagus), Centaurea maculosa (spotted knapweed), Hieracium spp. (hawkweeds), Poa compressa (Canada bluegrass), Poa pratensis (Kentucky bluegrass), Rumex acetosella (sheep sorrel) and Tragopogon dubius (goat’s beard).
+
+## Issues.or.Problems
+Changed mixed fire probability in classes C and D to send more to B based on LANDSUM results (MH Weber - MFSL 11/13/07). This type covers a broad geographic range and encompasses a variety of prairie, barrens and woodland types that may have experienced different surface fire return intervals ranging from one to five years. Historical fire size is unknown but historical accounts indicate that vast acreages burned within a single fire event.
+
+This model was updated on 10/24/2007 by Randy Swaty to lump classes D and E.
+
+## References
+Abrams, M.D. 1992. Fire and the development of oak forests. BioScience. 42(5): 346-353.
+
+Abrams, M.D. and G.J. Nowacki. 1992. Historical variation in fire, oak recruitment, and post-logging accelerated succession in central Pennsylvania. Bulletin of the Torrey Botanical Club. 119: 19-28.
+
+Albert, D.A. 1995. Regional landscape ecosystems of Michigan, Minnesota, and Wisconsin: A working map and classification. Gen. Tech. Rep. NC-178. St. Paul, MN: USDA Forest Service, North Central Forest Experiment Station. Northern Prairie Wildlife Research Center Home Page. http://www.npwrc.usgs.gov/resource/1998/rlandscp/rlandscp.htm. (Version 03JUN98.) 250 pp.
+
+Albertson, F.W. and J.E. Weaver, 1945. Injury and death or recovery of trees in prairie climate. Ecological Monographs. 15(4): 393-433.
+
+Anderson, R.C. 1991. Illinois prairies: A historical perspective. Symposium Proceedings: Our Living Heritage: 384-391.
+
+Anderson, R.C. and L.E. Brown 1986. Stability and instability in plant communities following fire. American Journal of Botany. 73(3): 364-368.
+
+Anderson, R.C. and M.L. Bowles. 1999. Deep-soil savannas and barrens of the Midwestern United States. In: Anderson, R.C., J.S. Fralish and J.M. Baskin, eds. Savannas, Barrens, and Rock Outcrop Plant Communities of North America. Cambridge, UK: 155-170.
+
+Bader, B.J. 2001. Developing a species list for oak savanna/oak woodland restoration at the University of Wisconsin-Madison Arboretum. Ecological Restoration. 19(4): 242-250.
+
+Beal, W.J. 1904. Some of the changes now taking place in a forest of oak openings. Papers of the Michigan Academy of Science. 4: 107-108.
+
+Bowles, M.L. and J.L. McBride. 1998. Vegetation composition, structure, and chronological change in a decadent midwestern North American savanna remnant. Natural Areas Journal. 18(1): 14-27.
+
+Bray, J.R. 1960. The composition of savanna vegetation in Wisconsin. Ecology. 41(4): 721-732.
+
+Brewer, R. and S. Kitler. 1989. Tree distribution in southwestern Michigan bur oak openings. Michigan Botanist. 28: 73-79.
+
+Chapman, K.A. 1984. An ecological investigation of native grassland in Southern Lower Michigan. MA thesis, Western Michigan University. 235 pp.
+
+Chapman, K.A., M.A. White, M.R. Huffman and D. Faber-Langendoen. 1995. Ecology and stewardship guidelines for oak barrens landscapes in the upper Midwest. In: Stearns, F. and K. Holland, eds. Proceedings of the Midwest Oak Savanna Conference, 1993. U.S. Environmental Protection Agency, Internet Publications: 1-29. 21 September 2000 http://www.epa.gov/glnpo/oak/oak93/chapman.html.
+
+Cleland, D.T.; Freeouf, J.A.; Keys, J.E.; Nowacki, G.J.; Carpenter, C.A.; and McNab, W.H. 2007. Ecological Subregions: Sections and Subsections for the conterminous United States. Gen. Tech. Report WO-76D [Map on CD-ROM] (A.M. Sloan, cartographer). Washington, DC: U.S. Department of Agriculture, Forest Service, presentation scale 1:3,500,000; colored
+
+Cohen, J.G. 2001. Natural community abstract for oak openings. Michigan Natural Features Inventory, Lansing, MI.
+
+Cohen, J.G. 2004a. Natural community abstract for oak openings. Michigan Natural Features Inventory, Lansing, MI. 9 pp.
+
+Cohen, J.G. 2004b. Natural community abstract for bur oak plains. Michigan Natural Features Inventory, Lansing, MI. 13 pp.
+
+Cottam, G. 1949. The phytosociology of an oak woods in southwestern Wisconsin. Ecology. 30(3): 271-287.
+
+Curtis, J.T. 1959. Vegetation of Wisconsin: An Ordination of Plant Communities. University of Wisconsin Press, Madison, WI. 657 pp.
+
+Day, G.M. 1953. The Indian as an ecological factor in the northeastern forest. Ecology. 34(2): 329-346.
+
+Dorney, C.H. and J.R. Dorney. 1989. An unusual oak savanna in northeastern Wisconsin: The effects of Indian-caused fire. American Midland Naturalist. 122(1): 103-113.
+
+Faber-Langendoen, D. 1993. A proposed classification for savannas in the Midwest. Background paper for the Midwest Oak Savanna Conference, 1993. 18 pp.
+
+Faber-Langendoen, D. and M.A. Davis. 1995. Effects of fire frequency on tree canopy cover at Allison Savanna, east-central Minnesota, USA. Natural Areas Journal. 15(4): 319-328.
+
+Faber-Langendoen, D. and J.R. Tester. 1993. Oak mortality in sand savannas following drought in east-central Minnesota. Bulletin of the Torrey Botanical Club. 120 (3): 248-256. 
+
+Grimm, E.C. 1984. Fire and other factors controlling the Big Woods vegetation of Minnesota in the mid-nineteenth century. Ecological Monographs. 54(3): 291-311.
+
+Kline, V.M. 1997. Orchards of oak and a sea of grass. In: S. Packard, S. and C.F. Mutel, eds. The Tallgrass Restoration Handbook. Island Press, Washington, DC: 3-21.
+
+Kost, M.A. 2004. Natural community abstract for woodland prairie. Michigan Natural Features Inventory, Lansing, MI. 8 pp.
+
+Lanman, C. 1871. The Red Book of Michigan: Civil, Military and Biographical History. E.B. Smith & Company, Detroit, MI.
+
+Leach, M.K. and L. Ross. 1995. Midwest oak ecosystems recovery plan: A call to action. 
+111 pp.
+
+Leach, M.K. and T.J. Givnish. 1999. Gradients in the composition, structure, and diversity of remnant oak savannas in southern Wisconsin. Ecological Monographs. 69(3): 353-374.
+
+Leitner, L.A. C.P. Dunn, G.R. Guntenspergen, F. Stearns and D.M. Sharpe 1991. Effects of site, landscape features, and fire regime on vegetation patterns in presettlement southern Wisconsin. Landscape Ecology. 5(4): 203-217.
+
+McClain, W.E., M.A. Jenkins, S.E. Jenkins and J.E. Ebinger 1993. Changes in the woody vegetation of a bur oak savanna remnant in central Illinois. Natural Areas Journal. 13(2): 108-114.
+
+Michigan Natural Features Inventory, 2003. Draft description of Michigan natural community types. (Unpublished manuscript revised March 4, 2003.) Michigan Natural Features Inventory, Lansing, MI. 36 pp. http://www.msue.msu.edu/mnfi/lists/natural_community_types.pdf.
+
+NatureServe. 2007. International Ecological Classification Standard: Terrestrial Ecological Classifications. NatureServe Central Databases. Arlington, VA. Data current as of 10 February 2007.
+
+NatureServe, 2004. NatureServe Explorer: An online encyclopedia of life [web application]. Version 4.0. NatureServe, Arlington, VA. 11 September 2004 
+<http://www.natureserve.org/explorer>.
+
+Nuzzo, V. 1986. Extent and status of Midwest oak savanna: Presettlement and 1985. Natural Areas Journal. 6(2): 6-36.
+
+Packard, S. 1988. Just a few oddball species: Restoration and the rediscovery of the tallgrass savanna. Restoration and Management Notes. 6(1): 13-21.
+
+Peters, B.C. 1970. Pioneer evaluation of the Kalamazoo County landscape. Michigan Academician. 3(2): 15-25.
+
+Peterson, D.W. and P.B. Reich. 2001. Prescribed fire in oak savanna: Fire frequency effects on stand structure and dynamics. Ecological Applications. 11(3): 914-927.
+
+Pruka, B. 1995. Lists indicate recoverable oak savannas and oak woodlands in southern Wisconsin. Restoration and Management Notes 13(1): 124-126.
+
+Pruka, B. and D. Faber-Langendoen. 1995. Midwest oak ecosystem recovery plan: A call to action. Proceedings of the 1995 Midwest Oak Savanna and Woodland Ecosystem Conferences. 19 January 2004 http://www.epa.gov/glnpo/ecopage/upland/oak/oak95/app-b.htm.
+
+Ritchie, M.E., D. Tilman and J.M.H. Knops. 1998. Herbivore effects on plant and nitrogen dynamics in oak savanna. Ecology. 79(1) 165-177.
+
+Stout, A.B. 1946. The bur oak openings of southern Wisconsin. Transactions of the Wisconsin Academy of Science, Arts and Letters. 36: 141-161.
+
+## References
+Abrams, M.D. 1992. Fire and the development of oak forests. BioScience. 42(5): 346-353.
+
+Abrams, M.D. and G.J. Nowacki. 1992. Historical variation in fire, oak recruitment, and post-logging accelerated succession in central Pennsylvania. Bulletin of the Torrey Botanical Club. 119: 19-28.
+
+Albert, D.A. 1995. Regional landscape ecosystems of Michigan, Minnesota, and Wisconsin: A working map and classification. Gen. Tech. Rep. NC-178. St. Paul, MN: USDA Forest Service, North Central Forest Experiment Station. Northern Prairie Wildlife Research Center Home Page. http://www.npwrc.usgs.gov/resource/1998/rlandscp/rlandscp.htm. (Version 03JUN98.) 250 pp.
+
+Albertson, F.W. and J.E. Weaver, 1945. Injury and death or recovery of trees in prairie climate. Ecological Monographs. 15(4): 393-433.
+
+Anderson, R.C. 1991. Illinois prairies: A historical perspective. Symposium Proceedings: Our Living Heritage: 384-391.
+
+Anderson, R.C. and L.E. Brown 1986. Stability and instability in plant communities following fire. American Journal of Botany. 73(3): 364-368.
+
+Anderson, R.C. and M.L. Bowles. 1999. Deep-soil savannas and barrens of the Midwestern United States. In: Anderson, R.C., J.S. Fralish and J.M. Baskin, eds. Savannas, Barrens, and Rock Outcrop Plant Communities of North America. Cambridge, UK: 155-170.
+
+Bader, B.J. 2001. Developing a species list for oak savanna/oak woodland restoration at the University of Wisconsin-Madison Arboretum. Ecological Restoration. 19(4): 242-250.
+
+Beal, W.J. 1904. Some of the changes now taking place in a forest of oak openings. Papers of the Michigan Academy of Science. 4: 107-108.
+
+Bowles, M.L. and J.L. McBride. 1998. Vegetation composition, structure, and chronological change in a decadent midwestern North American savanna remnant. Natural Areas Journal. 18(1): 14-27.
+
+Bray, J.R. 1960. The composition of savanna vegetation in Wisconsin. Ecology. 41(4): 721-732.
+
+Brewer, R. and S. Kitler. 1989. Tree distribution in southwestern Michigan bur oak openings. Michigan Botanist. 28: 73-79.
+
+Chapman, K.A. 1984. An ecological investigation of native grassland in Southern Lower Michigan. MA thesis, Western Michigan University. 235 pp.
+
+Chapman, K.A., M.A. White, M.R. Huffman and D. Faber-Langendoen. 1995. Ecology and stewardship guidelines for oak barrens landscapes in the upper Midwest. In: Stearns, F. and K. Holland, eds. Proceedings of the Midwest Oak Savanna Conference, 1993. U.S. Environmental Protection Agency, Internet Publications: 1-29. 21 September 2000 http://www.epa.gov/glnpo/oak/oak93/chapman.html.
+
+Cleland, D.T.; Freeouf, J.A.; Keys, J.E.; Nowacki, G.J.; Carpenter, C.A.; and McNab, W.H. 2007. Ecological Subregions: Sections and Subsections for the conterminous United States. Gen. Tech. Report WO-76D [Map on CD-ROM] (A.M. Sloan, cartographer). Washington, DC: U.S. Department of Agriculture, Forest Service, presentation scale 1:3,500,000; colored
+
+Cohen, J.G. 2001. Natural community abstract for oak openings. Michigan Natural Features Inventory, Lansing, MI.
+
+Cohen, J.G. 2004a. Natural community abstract for oak openings. Michigan Natural Features Inventory, Lansing, MI. 9 pp.
+
+Cohen, J.G. 2004b. Natural community abstract for bur oak plains. Michigan Natural Features Inventory, Lansing, MI. 13 pp.
+
+Cottam, G. 1949. The phytosociology of an oak woods in southwestern Wisconsin. Ecology. 30(3): 271-287.
+
+Curtis, J.T. 1959. Vegetation of Wisconsin: An Ordination of Plant Communities. University of Wisconsin Press, Madison, WI. 657 pp.
+
+Day, G.M. 1953. The Indian as an ecological factor in the northeastern forest. Ecology. 34(2): 329-346.
+
+Dorney, C.H. and J.R. Dorney. 1989. An unusual oak savanna in northeastern Wisconsin: The effects of Indian-caused fire. American Midland Naturalist. 122(1): 103-113.
+
+Faber-Langendoen, D. 1993. A proposed classification for savannas in the Midwest. Background paper for the Midwest Oak Savanna Conference, 1993. 18 pp.
+
+Faber-Langendoen, D. and M.A. Davis. 1995. Effects of fire frequency on tree canopy cover at Allison Savanna, east-central Minnesota, USA. Natural Areas Journal. 15(4): 319-328.
+
+Faber-Langendoen, D. and J.R. Tester. 1993. Oak mortality in sand savannas following drought in east-central Minnesota. Bulletin of the Torrey Botanical Club. 120 (3): 248-256. 
+
+Grimm, E.C. 1984. Fire and other factors controlling the Big Woods vegetation of Minnesota in the mid-nineteenth century. Ecological Monographs. 54(3): 291-311.
+
+Kline, V.M. 1997. Orchards of oak and a sea of grass. In: S. Packard, S. and C.F. Mutel, eds. The Tallgrass Restoration Handbook. Island Press, Washington, DC: 3-21.
+
+Kost, M.A. 2004. Natural community abstract for woodland prairie. Michigan Natural Features Inventory, Lansing, MI. 8 pp.
+
+Lanman, C. 1871. The Red Book of Michigan: Civil, Military and Biographical History. E.B. Smith & Company, Detroit, MI.
+
+Leach, M.K. and L. Ross. 1995. Midwest oak ecosystems recovery plan: A call to action. 
+111 pp.
+
+Leach, M.K. and T.J. Givnish. 1999. Gradients in the composition, structure, and diversity of remnant oak savannas in southern Wisconsin. Ecological Monographs. 69(3): 353-374.
+
+Leitner, L.A. C.P. Dunn, G.R. Guntenspergen, F. Stearns and D.M. Sharpe 1991. Effects of site, landscape features, and fire regime on vegetation patterns in presettlement southern Wisconsin. Landscape Ecology. 5(4): 203-217.
+
+McClain, W.E., M.A. Jenkins, S.E. Jenkins and J.E. Ebinger 1993. Changes in the woody vegetation of a bur oak savanna remnant in central Illinois. Natural Areas Journal. 13(2): 108-114.
+
+Michigan Natural Features Inventory, 2003. Draft description of Michigan natural community types. (Unpublished manuscript revised March 4, 2003.) Michigan Natural Features Inventory, Lansing, MI. 36 pp. http://www.msue.msu.edu/mnfi/lists/natural_community_types.pdf.
+
+NatureServe. 2007. International Ecological Classification Standard: Terrestrial Ecological Classifications. NatureServe Central Databases. Arlington, VA. Data current as of 10 February 2007.
+
+NatureServe, 2004. NatureServe Explorer: An online encyclopedia of life [web application]. Version 4.0. NatureServe, Arlington, VA. 11 September 2004 
+<http://www.natureserve.org/explorer>.
+
+Nuzzo, V. 1986. Extent and status of Midwest oak savanna: Presettlement and 1985. Natural Areas Journal. 6(2): 6-36.
+
+Packard, S. 1988. Just a few oddball species: Restoration and the rediscovery of the tallgrass savanna. Restoration and Management Notes. 6(1): 13-21.
+
+Peters, B.C. 1970. Pioneer evaluation of the Kalamazoo County landscape. Michigan Academician. 3(2): 15-25.
+
+Peterson, D.W. and P.B. Reich. 2001. Prescribed fire in oak savanna: Fire frequency effects on stand structure and dynamics. Ecological Applications. 11(3): 914-927.
+
+Pruka, B. 1995. Lists indicate recoverable oak savannas and oak woodlands in southern Wisconsin. Restoration and Management Notes 13(1): 124-126.
+
+Pruka, B. and D. Faber-Langendoen. 1995. Midwest oak ecosystem recovery plan: A call to action. Proceedings of the 1995 Midwest Oak Savanna and Woodland Ecosystem Conferences. 19 January 2004 http://www.epa.gov/glnpo/ecopage/upland/oak/oak95/app-b.htm.
+
+Ritchie, M.E., D. Tilman and J.M.H. Knops. 1998. Herbivore effects on plant and nitrogen dynamics in oak savanna. Ecology. 79(1) 165-177.
+
+Stout, A.B. 1946. The bur oak openings of southern Wisconsin. Transactions of the Wisconsin Academy of Science, Arts and Letters. 36: 141-161.
+
